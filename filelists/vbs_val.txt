@@ -1,0 +1,1641 @@
+wav/voice_ev_shuffle_20_08_69_11.wav|0|いや、そんなに物欲しそうな顔してねえだろ
+wav/voice_ev_shuffle_20_08_71_11.wav|0|マジすか
+wav/voice_ev_shuffle_20_08_76_11.wav|0|テンションが上がったんなら何よりだ。そんじゃそろそろ練習を——
+wav/voice_ev_shuffle_20_08_81_11.wav|0|は？
+wav/voice_ev_shuffle_20_08_83_11.wav|0|なんだそりゃ。迷信か？
+wav/voice_ev_shuffle_20_08_86_11.wav|0|ま、やることは変わらねえし、いいか
+wav/voice_ev_shuffle_20_08_109_11.wav|0|そんじゃ、今日はとことんまでやるか
+wav/voice_ev_street_09_01_04_11.wav|0|あざす……
+wav/voice_ev_street_09_01_15_11.wav|0|三田なんてぶっ倒れるまでやってたな
+wav/voice_ev_street_09_01_22_11.wav|0|なんだよその盛り上げかた……
+wav/voice_ev_street_09_01_23_11.wav|0|つーか、まだ全然追いつけちゃいねえ。あの夜に追いついて超えるには、足りねえところばっかりだ
+wav/voice_ev_street_09_01_65_11.wav|0|（……ライティングもすげえな。これのおかげで、さして大きくないハコがとんでもなく雰囲気のあるステージになってやがる）
+wav/voice_ev_street_09_01_66_11.wav|0|（そんで、その中心にいるのは——）
+wav/voice_ev_street_09_01_75_11.wav|0|……で、どうだ？何か気づいたことはあったか？
+wav/voice_ev_street_09_01_92_11.wav|0|まあ、最後だから必死に歌ってたってのはありそうだが……
+wav/voice_ev_street_09_01_97_11.wav|0|……たしかにな。それはオレも感じた
+wav/voice_ev_street_09_01_98_11.wav|0|RAD WEEKENDの空気は、１曲目から他のイベントと違う。つまり……あの空気を作ったのは、あの凪って人なんだろうな
+wav/voice_ev_street_09_01_112_11.wav|0|だな。それに……
+wav/voice_ev_street_09_01_113_11.wav|0|あれだけの歌を歌えて、謙さんや大河さんと肩を並べてた人がどんな人なのか……個人的にも興味がある
+wav/voice_ev_street_09_08_06_11.wav|0|ああ。さすが謙さんや大河さんと一緒に歌うだけあって、人間ができてんだな
+wav/voice_ev_street_09_08_21_11.wav|0|街のことを……
+wav/voice_ev_street_09_08_22_11.wav|0|街——か
+wav/voice_ev_street_09_08_25_11.wav|0|いや……前に遠野と話した時にも、その言葉が出たと思ってな
+wav/voice_ev_street_09_08_30_11.wav|0|それが遠野にもわからねえらしい。オレ達も考えたが……さっぱりだ
+wav/voice_ev_street_09_08_33_11.wav|0|そうなのか？
+wav/voice_ev_street_09_08_36_11.wav|0|にしても……街の何を見ればいいんだ？ただ漠然と見ればいいっつー話でもなさそうだしな
+wav/voice_ev_street_09_08_42_11.wav|0|たしかに……杏の話を聞いてると、そんな感じがするな
+wav/voice_ev_street_09_08_55_11.wav|0|つっても、杏みたいに警官に声かけられはしないだろうけどな
+wav/voice_ev_street_09_08_64_11.wav|0|おう。そんじゃ、またな
+wav/voice_ev_shuffle_22_01_74_11.wav|0|悪い冬弥、遅くなった——
+wav/voice_ev_shuffle_22_01_75_11.wav|0|って、なんだそのぬいぐるみの量！？袋いっぱいに詰まってるじゃねえか
+wav/voice_ev_shuffle_22_01_77_11.wav|0|それでこれだけ取ってたのかよ
+wav/voice_ev_shuffle_22_01_78_11.wav|0|（毎回こんなに取ってたら、こいつの家、ぬいぐるみだらけになってんじゃねえのか……？）
+wav/voice_ev_shuffle_22_01_80_11.wav|0|ああ、別にかまわねえよ。向こうで座って待ってる
+wav/voice_ev_shuffle_22_01_82_11.wav|0|おう。つーか、もうひとつ取ったのかよ。相変わらずすげえな
+wav/voice_ev_shuffle_22_01_84_11.wav|0|へえ……。よくわからねえけど、よかったな
+wav/voice_ev_shuffle_22_01_85_11.wav|0|それじゃ、練習に行くか。今日もいつもの場所で、発声から——
+wav/voice_ev_shuffle_22_01_88_11.wav|0|そんな場所にゲーセンあったのか。……つーか、妙に古くせえデザインのチラシだな
+wav/voice_ev_shuffle_22_01_90_11.wav|0|なんだよ、興味あんのか？
+wav/voice_ev_shuffle_22_03_06_11.wav|0|あ、お前……。司センパイ達とショーやってる——
+wav/voice_ev_shuffle_22_03_11_11.wav|0|別に友達じゃねえよ
+wav/voice_ev_shuffle_22_03_13_11.wav|0|東雲彰人、よろしく
+wav/voice_ev_shuffle_22_03_22_11.wav|0|一流のパフォーマンスがどんなものか、見ておきたいからな
+wav/voice_ev_shuffle_22_03_28_11.wav|0|ん……？
+wav/voice_ev_shuffle_22_03_29_11.wav|0|（こいつらたしか、『俺達さいつよ』チームのやつらだったよな）
+wav/voice_ev_shuffle_22_03_30_11.wav|0|（“あれ”って……なんだ？）
+wav/voice_ev_shuffle_22_03_32_11.wav|0|ああ、どういうゲームが来るかはわからねえけど何がきても勝つだけだ
+wav/voice_ev_shuffle_22_03_39_11.wav|0|どういうことだよ……
+wav/voice_ev_shuffle_22_03_41_11.wav|0|えーと……すみません。少しいいですか？
+wav/voice_ev_shuffle_22_03_42_11.wav|0|プリントシールって、部屋っぽいブースの中で写真を撮って落書きするやつですよね？
+wav/voice_ev_shuffle_22_03_44_11.wav|0|いや、そんなわけねえだろ。……多分
+wav/voice_ev_shuffle_22_03_52_11.wav|0|……はあ。気は進まねえが、やるしかねえか……
+wav/voice_ev_shuffle_22_03_53_11.wav|0|おい、どうした？
+wav/voice_ev_shuffle_22_03_55_11.wav|0|お前な……。そこまで深刻に考えすぎんなよ
+wav/voice_ev_shuffle_22_03_56_11.wav|0|とはいえ、オレもそこまで経験ねえからな。盛る？とか映え？とかは……
+wav/voice_ev_shuffle_22_03_58_11.wav|0|…………
+wav/voice_ev_shuffle_22_03_59_11.wav|0|（——まあ、ゲームとはいえ冬弥にとっては前から楽しみにしてた大会だしな）
+wav/voice_ev_shuffle_22_03_60_11.wav|0|（勝たせてやりてえし、優勝賞品のチケットはオレも興味がある）
+wav/voice_ev_shuffle_22_03_61_11.wav|0|……わかんねえけど、とりあえずやってみるか
+wav/voice_ev_shuffle_22_03_91_11.wav|0|よし、落書きはこんなもんでいいだろ。……って、冬弥どうした？
+wav/voice_ev_shuffle_22_03_94_11.wav|0|いや……別に褒めるところじゃねえだろ……。こんなのうまくても自慢にならねえし
+wav/voice_ev_shuffle_22_03_95_11.wav|0|つーか、誰にも言うんじゃねえぞ
+wav/voice_ev_shuffle_22_03_98_11.wav|0|どうした？
+wav/voice_ev_shuffle_22_03_100_11.wav|0|他のチームも撮ってるから、その声じゃねえか？
+wav/voice_ev_shuffle_22_03_101_11.wav|0|それより、印刷終わったぞ。こんなんでいいのかはわからねえが……
+wav/voice_ev_shuffle_22_03_103_11.wav|0|……ま、そうだな
+wav/voice_ev_shuffle_22_04_03_11.wav|0|あのシール、ここで出すんだよな……
+wav/voice_ev_shuffle_22_04_14_11.wav|0|……きたか
+wav/voice_ev_shuffle_22_04_18_11.wav|0|うっ……
+wav/voice_ev_shuffle_22_04_20_11.wav|0|……なんか、それぞれ予想外の反応だな……
+wav/voice_ev_shuffle_22_04_26_11.wav|0|……！助かった……
+wav/voice_ev_shuffle_22_04_29_11.wav|0|他のチームに票が入る可能性もあるが、あいつらに入ったらまずいな……。今後を考えるとリードしておきてえ
+wav/voice_ev_shuffle_22_04_33_11.wav|0|…………
+wav/voice_ev_shuffle_22_04_39_11.wav|0|……まあ、しょうがねえ。やれるだけのことはやったからな
+wav/voice_ev_shuffle_22_04_42_11.wav|0|……悪いが、オレはもう二度と撮らねえぞ
+wav/voice_ev_shuffle_22_04_44_11.wav|0|（さっきから、あいつら……。“あれ”ってなんのことだ？）
+wav/voice_ev_shuffle_22_04_48_11.wav|0|よし、パズルゲームは冬弥の得意ゲームだな
+wav/voice_ev_shuffle_22_04_54_11.wav|0|オレも負けるわけにはいかねえな
+wav/voice_ev_shuffle_22_05_05_11.wav|0|あ……
+wav/voice_ev_shuffle_22_05_06_11.wav|0|正々堂々、頑張ろうと思います
+wav/voice_ev_shuffle_22_05_07_11.wav|0|——というわけで、お手柔らかによろしくね
+wav/voice_ev_shuffle_22_05_12_11.wav|0|（こいつらも別にゲーム得意って感じじゃねえし、オレらと同じ賞品目当ての参加ってとこだろ）
+wav/voice_ev_shuffle_22_05_13_11.wav|0|（オレもゲームは普段やらねえが……大会に出るって決まってから、いくつか練習したからな）
+wav/voice_ev_shuffle_22_05_14_11.wav|0|（ぷよぷよも何度かやってNPCに何回か勝てるレベルにはなったし——ま、いけるだろ）
+wav/voice_ev_shuffle_22_05_15_11.wav|0|（——よし、落ち着け。まずは落ちてくるぷよと、次の色を見て……）
+wav/voice_ev_shuffle_22_05_17_11.wav|0|は……！？
+wav/voice_ev_shuffle_22_05_20_11.wav|0|クソ、いきなりこれかよ……！
+wav/voice_ev_shuffle_22_05_21_11.wav|0|（——いや、まだ大丈夫だ。まずは積まれたおじゃまぷよを消して……）
+wav/voice_ev_shuffle_22_05_23_11.wav|0|（調子よかったのは最初の一撃だけか？今んとこ大人しそうだな）
+wav/voice_ev_shuffle_22_05_24_11.wav|0|（……よし、ここからは連鎖を重ねれば……）
+wav/voice_ev_shuffle_22_05_26_11.wav|0|わかってるが、狙って連鎖すんのムズいんだよな……
+wav/voice_ev_shuffle_22_05_27_11.wav|0|けど、これで練習の時は勝ててたし、なんとかいけるだろ
+wav/voice_ev_shuffle_22_05_29_11.wav|0|あ、いや——なんでもねえ
+wav/voice_ev_shuffle_22_05_36_11.wav|0|相殺って——そんな連鎖すぐにできるかよ！
+wav/voice_ev_shuffle_22_05_38_11.wav|0|うおっ！？画面ほとんど埋まっちまったぞ！？
+wav/voice_ev_shuffle_22_05_40_11.wav|0|そうは言ったって、こんな狭くなった画面で、何ができるってんだよ！
+wav/voice_ev_shuffle_22_05_42_11.wav|0|じゃあどうすれば——あっ！
+wav/voice_ev_shuffle_22_05_44_11.wav|0|……悪い、冬弥。負けちまった
+wav/voice_ev_shuffle_22_05_47_11.wav|0|……ああ。頼んだぞ
+wav/voice_ev_shuffle_22_05_65_11.wav|0|お、おい、冬弥。なんでコントローラーから手離してるんだ？
+wav/voice_ev_shuffle_22_05_75_11.wav|0|結果は１勝１敗ってことか。この場合どうなるんだ？
+wav/voice_ev_shuffle_22_06_03_11.wav|0|まあ、冬弥は初心者じゃないしな
+wav/voice_ev_shuffle_22_06_19_11.wav|0|あいつら……
+wav/voice_ev_shuffle_22_06_20_11.wav|0|…………
+wav/voice_ev_shuffle_22_06_30_11.wav|0|……そうだな
+wav/voice_ev_shuffle_22_06_37_11_b.wav|0|……好き放題言いやがって
+wav/voice_ev_shuffle_22_06_39_11.wav|0|ああ、わかってる
+wav/voice_ev_shuffle_22_06_46_11.wav|0|……さすがにそれはねえ。おじゃまぷよを相殺できたのは、ただの運だ
+wav/voice_ev_shuffle_22_06_47_11.wav|0|な……！？　８連鎖！？
+wav/voice_ev_shuffle_22_06_49_11.wav|0|くっ……ダメだ、間に合わねえ！
+wav/voice_ev_shuffle_22_06_52_11.wav|0|……すまねえ、冬弥
+wav/voice_ev_shuffle_22_06_54_11.wav|0|……冬弥、気をつけろよ
+wav/voice_ev_shuffle_22_06_58_11.wav|0|（……調子いいみてえだな。このままいけば冬弥が勝つのは確実だが、問題は——）
+wav/voice_ev_shuffle_22_06_59_11.wav|0|（……やっぱり、動き出したか）
+wav/voice_ev_shuffle_22_06_60_11.wav|0|……あの、どうかしましたか？まだ試合中ですけど
+wav/voice_ev_shuffle_22_06_61_11.wav|0|（こいつ……）
+wav/voice_ev_shuffle_22_06_62_11.wav|0|すみません、彼の集中を切らしたくないので……。よかったら動画撮っておくので、あとで送りますよ
+wav/voice_ev_shuffle_22_06_68_11.wav|0|てめっ……！
+wav/voice_ev_shuffle_22_06_70_11.wav|0|え？　終わるって……
+wav/voice_ev_shuffle_22_06_74_11.wav|0|な……冬弥！？
+wav/voice_ev_shuffle_22_06_86_11.wav|0|……マジか
+wav/voice_ev_shuffle_22_07_22_11.wav|0|こういうゲームは冬弥も得意分野ってわけじゃないんだろ？となると、戦いを避けたほうが生き残れそうだな
+wav/voice_ev_shuffle_22_07_35_11.wav|0|冬弥、こっちは銃を装備できたぞ。そっちは？
+wav/voice_ev_shuffle_22_07_38_11.wav|0|チッ、早速かよ！だが……！
+wav/voice_ev_shuffle_22_07_39_11.wav|0|っし、やったか！？
+wav/voice_ev_shuffle_22_07_41_11.wav|0|……まあな。ぷよぷよよりかは、こういうゲームのが性に合ってるらしい
+wav/voice_ev_shuffle_22_07_42_11.wav|0|さっきしとめたヤツは、たしか……『筋肉こそ正義』のひとりだったか
+wav/voice_ev_shuffle_22_07_44_11.wav|0|だな。ひとりここにいたってことは、近くに仲間がいるはずだ。逃げられないうちに探すぞ
+wav/voice_ev_shuffle_22_07_84_11.wav|0|生き残らなきゃなんねえのに、そんなこと言ってる場合かよ
+wav/voice_ev_shuffle_22_07_90_11.wav|0|は？　キノコがどうしたんだ？たしかに道端にたくさん落ちてたが……。なんか使えんのか？
+wav/voice_ev_shuffle_22_07_94_11.wav|0|なっ……オレもだ！どうなってやがる？
+wav/voice_ev_shuffle_22_07_101_11.wav|0|本当に勝つためなら何してもいいって感じだな、あいつら
+wav/voice_ev_shuffle_22_07_133_11.wav|0|冬弥、勝ってこい！
+wav/voice_ev_shuffle_22_08_18_11.wav|0|……結構いいとこまでいったのに、残念だったな
+wav/voice_ev_shuffle_22_08_26_11.wav|0|は？　なんで……
+wav/voice_ev_shuffle_22_08_27_11.wav|0|……ですが、それは店長が……
+wav/voice_ev_shuffle_22_08_32_11.wav|0|……けど、優勝したチームと同じ賞品をもらうのはなんか悪い気がすんな……
+wav/voice_ev_shuffle_22_08_42_11.wav|0|オレも少し興味あるな。その時は呼べよ、冬弥
+wav/voice_ev_shuffle_22_08_44_11.wav|0|は？　いや、オレは……
+wav/voice_ev_shuffle_22_08_46_11.wav|0|……まあ、負けたままってのも性に合わねえしな
+wav/voice_ms_night8_56b_11.wav|0|おい、夜中にギャーギャーうるせえぞ絵名。……また親父か？
+wav/voice_ms_night8_56d_11.wav|0|あーはいはい。ったく、どっちがうるせえんだよ
+wav/voice_ms_night8_56e_11.wav|0|……描くのもいいけど、ちゃんと寝ろよ
+wav/voice_ms_street4_05_11.wav|0|当たり前だろ。謙さんはオレ達と同じ年で、これぐらい軽くやってたんだからな
+wav/voice_ms_street4_07_11.wav|0|無謀じゃねえ。それに、仮に無謀だとしても関係ねえよ。超えるって決めてるんだ、オレ達は
+wav/voice_ms_street4_08_11.wav|0|……チッ。わかってるよ。だからこうして腕磨いてんだろうが
+wav/voice_ms_street4_10_11.wav|0|……白石か。あいつはたしかに、できる
+wav/voice_ms_street4_11_11.wav|0|実力と覚悟があるなら、オレは歓迎するさ。……本当に、実力と覚悟があるなら、な
+wav/voice_ms_street4_47_11.wav|0|こんにちは白石さん。今日もお邪魔するね
+wav/voice_ms_street4_49_11.wav|0|じゃあ注文はいつもの…………あれ？　そっちの子は見ない顔だね
+wav/voice_ms_street4_51_11.wav|0|オレは東雲彰人。よろしくね。こっちは相棒の青柳冬弥
+wav/voice_ms_street4_56_11.wav|0|白石さんともこの店とも、中学の頃からの付き合いだね
+wav/voice_ms_street4_58_11.wav|0|あはは、出るだけならそんなにすごくないよ。誰でも出られるからね
+wav/voice_ms_street4_59_11.wav|0|そういえば白石さん、いい加減、仲間は見つかった？
+wav/voice_ms_street4_60_11.wav|0|そろそろ誰かと組んだほうがいいんじゃない？……本気で『RAD WEEKEND』超えを目指すんならさ
+wav/voice_ms_street4_63_11.wav|0|それってもしかして……？
+wav/voice_ms_street4_65_11.wav|0|……白石さんがそう言うってことは、かなり歌えるのかな。小豆沢さん、今までどこでやってたの？
+wav/voice_ms_street4_67_11.wav|0|え？
+wav/voice_ms_street4_69_11.wav|0|……へえ
+wav/voice_ms_street4_71_11.wav|0|………………
+wav/voice_ms_street4_72_11.wav|0|……じゃあさ、ちょっと提案なんだけど。ふたりとも、イベントに出てみない？
+wav/voice_ms_street5_02_11.wav|0|うん。ふたりともせっかく組んだわけだし。同じ目標を持つ者同士、一緒にイベントに出ようよ
+wav/voice_ms_street5_03_11.wav|0|オレ達が来月に出るイベント、出演者が一組出られなくなって、枠が空いてるんだ
+wav/voice_ms_street5_04_11.wav|0|場所はREDってライブハウスだよ。どう？
+wav/voice_ms_street5_12_11.wav|0|じゃあ決まりだね。話はオレから通しておくよ
+wav/voice_ms_street5_14_11.wav|0|どういたしまして。同じイベントに出るのは初めてだし、楽しみだな
+wav/voice_ms_street5_17_11.wav|0|オレさ、中学にあがるまではサッカーやってたんだ
+wav/voice_ms_street5_19_11.wav|0|もともと器用だったから、すぐエースになってさ。そんなにやる気はなかったけど、周りにも期待されて、ぼんやり『将来はサッカー選手になりたい』なんて考えてたんだ
+wav/voice_ms_street5_20_11.wav|0|でも、全国クラスの強豪に当たった時、わかった。本気で目指してるヤツらは……覚悟が違うってな
+wav/voice_ms_street5_21_11.wav|0|あいつらは、遊ぶ時間も、食う時間も、寝る時間も、全部投げうって、ひたすらやり続ける
+wav/voice_ms_street5_23_11.wav|0|オレは『RAD WEEKEND』に出会って初めて、これがオレの全部を犠牲にしてでもやりたいものだってわかった
+wav/voice_ms_street5_24_11.wav|0|……もしかすると、白石も同じじゃないかと思ってたんだ。あいつも、あれを目の前で見たって言ってたからな
+wav/voice_ms_street5_25_11.wav|0|口先だけのヤツらと違って、あいつは本気で『RAD WEEKEND』を超えたがってる。どこかでそう期待してた……なのに……
+wav/voice_ms_street5_26_11.wav|0|……あんな素人と組みやがったなんてな……
+wav/voice_ms_street5_27_11.wav|0|あんなヘラヘラした、半端な素人と一緒にやって、あの夜を超えられるわけねえだろ……
+wav/voice_ms_street5_29_11.wav|0|だから、目の前で教えてやる。『お前らじゃムリだ』ってな。今度のイベント、オレ達の歌で、圧倒してやる
+wav/voice_ms_street5_31_11.wav|0|じゃあお前はあのチビが本気に見えたのかよ
+wav/voice_ms_street5_32_11.wav|0|『音楽の授業くらいでしか』だぞ？そんなぬるいヤツには『RAD WEEKEND』を口にする資格すらねえ
+wav/voice_ms_street5_33_11.wav|0|あの夜を超えるってことは……
+wav/voice_ms_street5_34_11.wav|0|……半端な覚悟で言っていいことじゃない
+wav/voice_ms_street5_35_11.wav|0|だからあいつらは、オレ達の歌でぶっ潰す
+wav/voice_ms_street7_45_11.wav|0|……『RAD WEEKEND』を超えるってことは半端な覚悟で言っていいことじゃない
+wav/voice_ms_street7_47_11.wav|0|時間通りだな。冬弥。準備はできてるか？
+wav/voice_ms_street7_49_11.wav|0|よし、じゃあラストの合わせやるぞ
+wav/voice_ms_street7_51_11.wav|0|はっ。言われなくても大丈夫だよ。今日は完璧に決めてやる
+wav/voice_ms_street7_52_11.wav|0|あの夜を超えたいなら、どんなヤツらも、オレ達の歌で圧倒しなきゃな
+wav/voice_ms_street7_53_11.wav|0|特に……あんな半端なヤツらには、絶対に負けねえ。だろ？
+wav/voice_ms_street7_55_11.wav|0|今日も頼むぞ、相棒
+wav/voice_ms_street8_01_11.wav|0|……なんだよお前、イラついてんな
+wav/voice_ms_street8_04_11.wav|0|むしろ歓迎だ。あいつらはオレ達の歌で潰すからな
+wav/voice_ms_street8_05_11.wav|0|ああ、力の差を見せつけて、『RAD WEEKEND』を超えるなんて冗談でも言えないようにしてやるよ
+wav/voice_ms_street8_08_11.wav|0|おい、余計なことすんじゃねえぞ。これはオレ達の問題だからな
+wav/voice_ms_street8_12_11.wav|0|機材こっちに動かしておきましょうか？
+wav/voice_ms_street8_50_11.wav|0|ふたりともよく来たね。奥にある控室、自由に使っていいってさ
+wav/voice_ms_street8_53_11.wav|0|こちらこそよろしく。初めてで緊張するかもしれないけど、頑張って
+wav/voice_ms_street8_56_11.wav|0|……ヘラヘラしやがって
+wav/voice_ms_street8_57_11.wav|0|いくぞ冬弥。徹底的に潰してやる
+wav/voice_ms_street8_59_11.wav|0|……ん？
+wav/voice_ms_street9_02_11.wav|0|なんだよ急に
+wav/voice_ms_street9_04_11.wav|0|…………
+wav/voice_ms_street9_05_11.wav|0|…………はぁ、わかったよ
+wav/voice_ms_street9_06_11.wav|0|１回だけだ。お前がそこまで言うなら、１回だけ真剣に聴いてやる
+wav/voice_ms_street9_08_11.wav|0|……あぁ、お前か
+wav/voice_ms_street9_09_11.wav|0|ま、今日のあいつらのパフォーマンス次第だな。じゃあ、オレらは先にいってるぞ
+wav/voice_ms_street9_15_11.wav|0|さて、がっかりさせてくれるなよな……
+wav/voice_ms_street9_28_11.wav|0|おい、どうなってんだ！機材トラブルか！？
+wav/voice_ms_street9_52_11.wav|0|……！　お前ら……！
+wav/voice_ms_street10_02_11.wav|0|……ちっ……！
+wav/voice_ms_street10_04_11.wav|0|………………
+wav/voice_ms_street10_06_11.wav|0|ああそうだ、オレがやった。お前らを潰してやるつもりでな
+wav/voice_ms_street10_09_11.wav|0|オレは、覚悟もねえヤツが、『RAD WEEKEND』を超えるなんて口にするのが許せねえんだよ
+wav/voice_ms_street10_10_11.wav|0|そこのチビ、これくらいで歌えなくなるってことはしょせんその程度の覚悟だったってことだろ
+wav/voice_ms_street10_13_11.wav|0|……初めて？どうしようもない？
+wav/voice_ms_street10_14_11.wav|0|だから仕方ない、か？
+wav/voice_ms_street10_15_11.wav|0|少なくとも、お前はそう思わなかっただろ、白石。あそこで食い下がったのは、お前に覚悟があったからだ
+wav/voice_ms_street10_16_11.wav|0|『あのイベント』を超える気なら、こんなところでつまずくわけにはいかないって思ったんじゃねえのか
+wav/voice_ms_street10_18_11.wav|0|そこのチビにはそれがない。だから歌うことさえできなかった。……違うか？
+wav/voice_ms_street10_20_11.wav|0|一生懸命やってりゃそれだけで本気だってのか？笑わせんな！
+wav/voice_ms_street10_21_11.wav|0|オレ達は本気だ。『RAD WEEKEND』はオレ達が超える。おいチビ。お前は本気だって言えんのか？
+wav/voice_ms_street10_24_11.wav|0|……ほらな、この程度だ
+wav/voice_ms_street10_25_11.wav|0|ここは遠足気分で足を踏み入れていい世界じゃねえんだよ
+wav/voice_ms_street10_26_11.wav|0|これくらいで潰れるなら、さっさと出ていけ
+wav/voice_ms_street10_32_11.wav|0|それでも原因は、オレだろ。言い訳は嫌いなんだ
+wav/voice_ms_street10_34_11.wav|0|…………
+wav/voice_ms_street10_35_11.wav|0|いくぞ冬弥。もうすぐオレ達の番だ。……盛り上げるぞ
+wav/voice_ms_street12_19_11.wav|0|こんにちは……って、また謙さんいないのか
+wav/voice_ms_street12_21_11.wav|0|おいおい、店員が客睨むか？　普通
+wav/voice_ms_street12_23_11.wav|0|あ？　お前……！？このあいだのチビか……？
+wav/voice_ms_street12_24_11.wav|0|……おい、まだウロウロしてるのか。聞こえなかったのか？　この店は、お前みたいな中途半端な……
+wav/voice_ms_street12_26_11.wav|0|は？
+wav/voice_ms_street12_28_11.wav|0|……なんだと？
+wav/voice_ms_street12_30_11.wav|0|……おいお前ら、自分達が何言ってるか、わかってんのか？
+wav/voice_ms_street12_31_11.wav|0|中途半端な覚悟しか持たないヤツが、オレは一番嫌いなんだ。もし、お前らがまたオレたちと同じイベントに出るなら……
+wav/voice_ms_street12_32_11.wav|0|徹底的に潰すぞ。今度は、実力でな
+wav/voice_ms_street12_34_11.wav|0|……！
+wav/voice_ms_street12_38_11.wav|0|…………
+wav/voice_ms_street12_42_11.wav|0|……勝手にしろ。帰るぞ冬弥。謙さんがいねえならいる意味ねえ
+wav/voice_ms_street12_57_11.wav|0|……チッ。なんなんだよあいつら
+wav/voice_ms_street12_58_11.wav|0|あのチビ、急にあんな大口たたきやがって……。どうせ白石にたきつけられただけだろ
+wav/voice_ms_street12_59_11.wav|0|『RAD WEEKEND』を超えるのはオレ達だ。今度こそ思い知らせてやるぞ、冬弥
+wav/voice_ms_street12_61_11.wav|0|なんだよ。調子悪いのか？
+wav/voice_ms_street12_63_11.wav|0|なら次のセトリ考えるぞ。今度こそあいつらを潰してやる
+wav/voice_ms_street13_11_11.wav|0|あれだけの啖呵きったんだ。見せてもらおうじゃねえか
+wav/voice_ms_street13_14_11.wav|0|ちっ。誰がやるか……
+wav/voice_ms_street13_15_11.wav|0|今日はオレ達が先だ。今度こそ見せつけてやるぞ、冬弥。……おい、冬弥？
+wav/voice_ms_street13_17_11.wav|0|まぶしい？　何がだよ
+wav/voice_ms_street13_19_11.wav|0|BAD DOGSだ！今夜も聴いてくれてありがとな
+wav/voice_ms_street13_23_11.wav|0|お前らの番だぞ。見せてくれんだろうな？
+wav/voice_ms_street13_34_11.wav|0|な……！
+wav/voice_ms_street13_38_11.wav|0|……これは
+wav/voice_ms_street13_39_11.wav|0|……マジかよ……
+wav/voice_ms_street13_41_11.wav|0|……オレと、あいつらが？
+wav/voice_ms_street13_43_11.wav|0|………………
+wav/voice_ms_street13_47_11.wav|0|あいつら……
+wav/voice_ms_street13_53_11.wav|0|なんでお前が偉そうなんだよ……
+wav/voice_ms_street13_54_11.wav|0|………………
+wav/voice_ms_street13_55_11.wav|0|半端な覚悟で歌ってるわけじゃないことはわかった
+wav/voice_ms_street13_56_11.wav|0|その上で、聞くぞ。お前らは本気で『RAD WEEKEND』を超えようと思ってるんだな？
+wav/voice_ms_street13_59_11.wav|0|……そうか
+wav/voice_ms_street13_60_11.wav|0|お前らの歌は、良かった。……前は、邪魔して悪かったな
+wav/voice_ms_street13_63_11.wav|0|うるせえ。用がないならさっさと行けよ
+wav/voice_ms_street13_65_11.wav|0|お前、何様のつもり……！
+wav/voice_ms_street13_68_11.wav|0|……たく、調子のりやがって。おい冬弥、次のイベントはセトリ変えていくぞ！
+wav/voice_ms_street13_69_11.wav|0|あいつらが心底悔しがるような最高の出来にしてやるよ
+wav/voice_ms_street13_71_11.wav|0|冬弥？　どうした？
+wav/voice_ms_street14_01_11.wav|0|……もうやらない？何言ってんだ？
+wav/voice_ms_street14_02_11.wav|0|お前、冗談言えるほど器用じゃねえだろ。バカなこと言ってんじゃねえよ
+wav/voice_ms_street14_04_11.wav|0|……何があった？お前の親父が、またなんか言ったのか？
+wav/voice_ms_street14_07_11.wav|0|…………おい、本気で言ってんのか？
+wav/voice_ms_street14_09_11.wav|0|……いい加減にしろよ
+wav/voice_ms_street14_10_11.wav|0|オレ達の音楽に、意味がないだと？それ以上ふざけたこと言うなら、お前でも許さねえぞ！
+wav/voice_ms_street14_11_11.wav|0|つーか、やめてどうする気だ？あれだけ嫌ってた親父の言いなりになるのか？それこそお前にとってなんの意味があるんだよ！
+wav/voice_ms_street14_13_11.wav|0|おい待てよ！　話終わってねえだろ！冬弥！！
+wav/voice_ms_street14_14_11.wav|0|…………！
+wav/voice_ms_street14_16_11.wav|0|てめえ……！！
+wav/voice_ms_street14_18_11.wav|0|……勝手にしろ！！
+wav/voice_ms_street14_19_11.wav|0|その代わり、その顔二度と見せんな！！
+wav/voice_ms_street14_41_11.wav|0|………………
+wav/voice_ms_street14_42_11.wav|0|キミ、最近よくここでやってるね
+wav/voice_ms_street14_44_11.wav|0|別に。なんとなく気になっただけだよ。なんでここでやってんだろうってさ
+wav/voice_ms_street14_46_11.wav|0|リズムも音程もえらく正確なんだよね。かなり長く音楽やってるだろ
+wav/voice_ms_street14_48_11.wav|0|へぇ……。わけありってヤツか？
+wav/voice_ms_street14_51_11.wav|0|……音楽のおかげでどうにかやれてる、ってとこか
+wav/voice_ms_street14_52_11.wav|0|おもしろいな、お前。なあ、ちょっとオレと歌ってみねえ？
+wav/voice_ms_street14_53_11.wav|0|ああ。それともうひとつ、謙さんに話したいことがあって……。なんだと思います？
+wav/voice_ms_street14_55_11.wav|0|おい冬弥！　今、オレが言おうとしてただろ！
+wav/voice_ms_street14_57_11.wav|0|お前、普段はろくにしゃべらねえクセにこういう時だけなぁ……
+wav/voice_ms_street14_58_11.wav|0|……………………ちっ
+wav/voice_ms_street14_60_11.wav|0|……あぁ？
+wav/voice_ms_street14_69_11.wav|0|……………………
+wav/voice_ms_street15_02_11.wav|0|……お前らもいたのかよ
+wav/voice_ms_street15_05_11.wav|0|…………
+wav/voice_ms_street15_06_11.wav|0|……あんなヤツ、最初から相棒じゃねえよ……
+wav/voice_ms_street16_31_11.wav|0|……ありがとうございました
+wav/voice_ms_street16_32_11.wav|0|………………
+wav/voice_ms_street16_33_11.wav|0|………………クソ
+wav/voice_ms_street16_34_11.wav|0|気にしてる場合かよ……。『RAD WEEKEND』を超えるなら、止まってなんていられねえだろ……
+wav/voice_ms_street16_35_11.wav|0|次のイベントは……明後日か。……曲、決めねえと……
+wav/voice_ms_street16_36_11.wav|0|……ん？『Untitled』？　こんな曲あったか？
+wav/voice_ms_street16_37_11.wav|0|な、なんだ！？
+wav/voice_ms_street16_38_11.wav|0|ここは……？　どうなってるんだ？いつの間に知らない場所に……
+wav/voice_ms_street16_40_11.wav|0|……か、鏡音レン……！？バーチャル・シンガーの……！？
+wav/voice_ms_street16_43_11.wav|0|お、おい！　なんなんだよここ！引っ張るな！
+wav/voice_ms_street16_45_11.wav|0|オレの名前……！　どうして！？
+wav/voice_ms_street16_48_11.wav|0|……初音ミクまで？疲れてるのか？　変な幻覚が見えて……
+wav/voice_ms_street16_51_11.wav|0|アイツは相棒じゃねえ！
+wav/voice_ms_street16_53_11.wav|0|あ……わ、悪い……
+wav/voice_ms_street16_54_11.wav|0|……クソ。お前らがなんなのかは知らねえけど……冬弥とオレはもう関係ねえよ
+wav/voice_ms_street16_58_11.wav|0|……誰がこんなわけわかんねえところで……
+wav/voice_ms_street16_61_11.wav|0|…………
+wav/voice_ms_street17_02_11.wav|0|……いらねえ……いえ、いりません
+wav/voice_ms_street17_08_11.wav|0|別に……そういうワケじゃねえよ
+wav/voice_ms_street17_09_11.wav|0|……ただあいつが、オレを仲間だって思ってなかっただけの話だ……
+wav/voice_ms_street17_11_11.wav|0|…………
+wav/voice_ms_street17_15_11.wav|0|…………そうだな
+wav/voice_ms_street17_16_11.wav|0|…………
+wav/voice_ms_street17_17_11.wav|0|……わかんねえよ……
+wav/voice_ms_street17_18_11.wav|0|急に『俺達の音楽には、なんの意味もない』なんて言われて……わかるわけねえだろ
+wav/voice_ms_street17_19_11.wav|0|オレはあいつとなら、『RAD WEEKEND』だって……
+wav/voice_ms_street17_23_11.wav|0|とっておき？
+wav/voice_ms_street17_26_11.wav|0|どう見ても未成年が飲んでいいもんじゃないだろ……
+wav/voice_ms_street17_28_11.wav|0|グイっとって……ん？
+wav/voice_ms_street17_29_11.wav|0|この匂い、ウーロン茶か？ご丁寧に酒用のグラスと氷まで使って……
+wav/voice_ms_street17_30_11.wav|0|こんなまぎらわしいもん、なんのつもりで……
+wav/voice_ms_street17_32_11.wav|0|は？　それどういう……
+wav/voice_ms_street17_34_11.wav|0|…………
+wav/voice_ms_street17_35_11.wav|0|冬弥は、冗談なんか言わねえ……。だからつい、あいつの言葉を“そのままの意味”で考えてた……
+wav/voice_ms_street17_36_11.wav|0|けど……もし、本心じゃなかったら……
+wav/voice_ms_street17_37_11.wav|0|クソ、今から……！
+wav/voice_ms_street17_38_11.wav|0|……なんだ？　謙さんから電話？
+wav/voice_ms_street17_39_11.wav|0|はい、彰人です。どうしたんですか？　謙さんがオレに電話なんて……
+wav/voice_ms_street17_40_11.wav|0|……冬弥が、店に来てる？
+wav/voice_ms_street17_41_11.wav|0|今から行きます！電話このまま、繋いでおいて下さい！
+wav/voice_ms_street17_43_11.wav|0|ああ。あと……なんだ、その……
+wav/voice_ms_street18_14_11.wav|0|おもしろいな、お前。なあ、ちょっとオレと歌ってみねえ？
+wav/voice_ms_street18_15_11.wav|0|この人が謙さんだ。あの『RAD WEEKEND』をやったひとりだぞ！
+wav/voice_ms_street18_16_11.wav|0|オレ達も、あれくらいすげえ、最高のイベントをやるぞ！　冬弥！
+wav/voice_ms_street18_34_11.wav|0|ハァ、ハァ、ハァ……
+wav/voice_ms_street18_37_11.wav|0|…………
+wav/voice_ms_street19_02_11.wav|0|ああ。謙さんにお願いして、電話を繋いでもらってた
+wav/voice_ms_street19_05_11.wav|0|…………
+wav/voice_ms_street19_07_11.wav|0|……オレはお前くらい朝から晩までバカみたいに練習するヤツ見たことねえぞ
+wav/voice_ms_street19_10_11.wav|0|冬弥……
+wav/voice_ms_street19_13_11.wav|0|…………。この、クソ真面目バカが……
+wav/voice_ms_street19_16_11.wav|0|……本当は、どうなんだよ
+wav/voice_ms_street19_18_11.wav|0|最初のことなんて、どうでもいい！クラシックから逃げ出したことも！大事なのは、今、お前が本当はどうしたいのかってことだ！
+wav/voice_ms_street19_20_11.wav|0|BAD DOGSを組んですぐの頃、客に『勢いだけで技術がない』って言われたことがあっただろ
+wav/voice_ms_street19_21_11.wav|0|あの時、オレめちゃくちゃ悔しくてさ。でもお前、なんにも言わねえんだよな
+wav/voice_ms_street19_22_11.wav|0|普通相棒が荒れてたらはげますなりなんなりするだろ。でもお前はなんにもいわないで……
+wav/voice_ms_street19_23_11.wav|0|……ずっとオレと練習してただろ
+wav/voice_ms_street19_24_11.wav|0|『俺達はこんなもんじゃない。本当の力を見せてやるぞ』って顔、してただろ……
+wav/voice_ms_street19_26_11.wav|0|オレは、お前がいるからここまでこられた
+wav/voice_ms_street19_27_11.wav|0|お前は、音楽が好きだ。バカみてぇに好きだ。本気で好きだ。それは、オレが一番よくわかってる！
+wav/voice_ms_street19_28_11.wav|0|『RAD WEEKEND』を超えるって夢も、お前が隣で真剣に聞いてくれてたから追えた！お前が信じてるから、オレは迷わずにいれんだよ！
+wav/voice_ms_street19_30_11.wav|0|グダグダうるせえ！！
+wav/voice_ms_street19_31_11.wav|0|……わかれよ！　オレは、お前以外と組むつもりはねえって！
+wav/voice_ms_street19_34_11.wav|0|オレの隣に、少しでも立ちたいって思ったんじゃねぇのかよ！だったら、お前もオレと同じ夢を……『RAD WEEKENDを超えたい』って思ってるはずだろ！？
+wav/voice_ms_street19_38_11.wav|0|冬弥………。……やっと吐いたか
+wav/voice_ms_street19_39_11.wav|0|……それなら、一緒にやればいいだけだろ
+wav/voice_ms_street19_41_11.wav|0|あーうるせえうるせえ。難しく考えてんじゃねえよ。オレは冬弥とやりたくて、冬弥もオレとやりたいんだ
+wav/voice_ms_street19_42_11.wav|0|あとはふたりで夢を叶える。……それでいいだろ
+wav/voice_ms_street19_44_11.wav|0|いい
+wav/voice_ms_street19_46_11.wav|0|お前は中途半端じゃねぇ。中途半端って自分で思ってるだけの、オレの最高の相棒だ
+wav/voice_ms_street19_50_11.wav|0|……たく、お前って勉強はできるくせにバカだよな
+wav/voice_ms_street19_51_11.wav|0|ま、いいか。明日からブランク空いた分取り戻すぞ、相棒
+wav/voice_ms_street19_52_11.wav|0|で、『RAD WEEKEND』を超える最高のイベントをやる。……それでいいな？
+wav/voice_ms_street19_55_11.wav|0|な……！？
+wav/voice_ms_street19_57_11.wav|0|お前らいつから……っていうか、立ち聞きしてたのかよ！
+wav/voice_ms_street19_70_11.wav|0|『Untitled』って、お前らもそれ知ってるのか？
+wav/voice_ms_street20_04_11.wav|0|……ああ。ありがとな
+wav/voice_ms_street20_10_11.wav|0|なんだ？　オレ達のパフォーマンスにビビってんのか？歌うってことなら負ける気がしねえぞ
+wav/voice_ms_street20_17_11.wav|0|……ハッ、当たり前だ。冬弥、腕が落ちてたら承知しねえからな
+wav/voice_ms_street20_22_11.wav|0|（なんだ、今のは……？Vividsとやると、こんなに違うのか……？）
+wav/voice_ms_street20_23_11.wav|0|（もしかすると『RAD WEEKEND』を超えるには……）
+wav/voice_ms_street20_27_11.wav|0|ん？　『Untitled』の名前が……変わってる？
+wav/voice_ms_street20_38_11.wav|0|『想い』なんてもんがあんな場所になるなんてな。実際に見ても、ちょっと信じられねえよ
+wav/voice_ms_street20_44_11.wav|0|…………
+wav/voice_ms_street20_49_11.wav|0|…………
+wav/voice_ms_street20_51_11.wav|0|……あの時、オレもそう思った。オレ達が組めば、敵なしだな
+wav/voice_ms_street20_55_11.wav|0|さすがにまんますぎじゃねえか……？
+wav/voice_ms_street20_62_11.wav|0|『イカした連中』って意味もあるな
+wav/voice_ms_street20_69_11.wav|0|……はぁ、のんきな連中だな
+wav/voice_ms_street20_71_11.wav|0|お前がそれ言うか？
+wav/voice_unit_piapro12_03_11.wav|0|もしかして、もう店じまいの時間か？
+wav/voice_unit_piapro12_11_11.wav|0|おう。この曲はオレがリズムとるぞ
+wav/voice_unit_piapro12_12_11.wav|0|いくぞ。——ワン、ツー、スリー、フォー
+wav/voice_unit_piapro12_13_11.wav|0|……おい、今こはねが歌ったパート、お前もっとテンポあげた方がいいんじゃねえか？
+wav/voice_unit_piapro12_15_11.wav|0|いや、違うだろ。こっからテンポを上げてくから、後半が盛り上がるんだろ
+wav/voice_unit_piapro12_19_11.wav|0|つーか、ここはこはねのパートなんだから、お前が決めろよな
+wav/voice_unit_piapro12_23_11.wav|0|……まあ、それはアリかもしれねえな。客観的に判断してもらえば、オレのほうが正しいってお前にもわかるだろ
+wav/voice_unit_piapro12_28_11.wav|0|助かる。メイコさんとミクに間に入ってもらえるなら、オレとこいつのどっちが正しいか、公平に判断できるな
+wav/voice_unit_piapro12_30_11.wav|0|決着？　お前、オレに勝つ気かよ
+wav/voice_unit_piapro12_31_11.wav|0|おい、オレ達は今真剣な話をしてんだ。お前らはあっちに——
+wav/voice_unit_piapro12_33_11.wav|0|は？　今はオレ達が歌うんだろうが
+wav/voice_unit_piapro12_35_11.wav|0|……しょうがねえなあ
+wav/voice_selfep_street_01_11.wav|0|Vivid BAD SQUADのライブにようこそ。東雲彰人です
+wav/voice_selfep_street_02_11.wav|0|……ん？　なんだよ
+wav/voice_selfep_street_03_11.wav|0|……『です』って言うのが気持ち悪い？
+wav/voice_selfep_street_04_11.wav|0|知るか。勝手に気色悪がってろ
+wav/voice_selfep_street_05_11.wav|0|今日はオレ達のライブに来てくれてありがとう
+wav/voice_selfep_street_06_11.wav|0|オレ達が組むことになった経緯はいろいろあるけど、別に仲がいいからとか、慣れ合い目的で組んだわけじゃない
+wav/voice_selfep_street_07_11.wav|0|オレ達が目指すのはただひとつ
+wav/voice_selfep_street_08_11.wav|0|『RAD WEEKEND』――
+wav/voice_selfep_street_09_11.wav|0|KENさんが残した、あの伝説のイベントを超える最高のイベントをオレ達の手でやることだ
+wav/voice_selfep_street_10_11.wav|0|ここにいるみんなには、KENさんの説明なんていらないよな
+wav/voice_selfep_street_11_11.wav|0|みんなも知ってる通り、この街……特にビビッドストリートは、あのKENさんも歌っていた場所だ
+wav/voice_selfep_street_12_11.wav|0|KENさんはそこで仲間と出会って、自分自身の音楽を見つけて、この街で完成させていった
+wav/voice_selfep_street_13_11.wav|0|だからこそ、オレもこの街で歌う
+wav/voice_selfep_street_14_11.wav|0|オレが最高だと思える仲間と一緒に、いつかオレ自身の音楽も見つけて……
+wav/voice_selfep_street_15_11.wav|0|そして必ず『RAD WEEKEND』を超えるイベントをこの手でやってみせる
+wav/voice_selfep_street_16_11.wav|0|この目で、あのイベントを見たあの日から、ずっとそのためだけに突き進んできた
+wav/voice_selfep_street_17_11.wav|0|KENさんやあの夜を知ってる人はただの夢だと思うだろうな
+wav/voice_selfep_street_18_11.wav|0|それに、よくいるだろ
+wav/voice_selfep_street_19_11.wav|0|お前はこれが向いてるって、望んでもないのに強要してきたり、お前じゃ無理だって夢を否定してきたりするヤツ
+wav/voice_selfep_street_20_11.wav|0|余計なお世話なんだよ
+wav/voice_selfep_street_21_11.wav|0|オレは誰に何を言われても、オレの夢を追い続ける
+wav/voice_selfep_street_22_11.wav|0|今日のライブは夢に向けて歩き始めるための一歩だ
+wav/voice_selfep_street_23_11.wav|0|オレ達はまだ結成したばかりで理想の音にも、まだ全然届いてない
+wav/voice_selfep_street_24_11.wav|0|けどな、オレ達のライブに来たからには、がっかりなんてさせない
+wav/voice_selfep_street_25_11.wav|0|このメンバーの中にハンパな奴なんていないからな
+wav/voice_selfep_street_26_11.wav|0|やるからには本気で。そういうヤツが集まったのがこのVivid BAD SQUADだ
+wav/voice_selfep_street_27_11.wav|0|それじゃあ、みんな――存分に楽しんでいってくれよな！
+wav/voice_ev_shuffle_20_07_75_10.wav|1|どうしよう、ドレスが汚れちゃった……。破れたりはしてないみたいだけど、植え込みに突っこんじゃったからだ……
+wav/voice_ev_shuffle_20_07_76_10.wav|1|あ、川崎さん、絹谷さん……。すみません、その……
+wav/voice_ev_shuffle_20_07_77_10.wav|1|本当にすみません！せっかく作ったドレスが……それに、これじゃ撮影も……
+wav/voice_ev_shuffle_20_07_78_10.wav|1|え？　それってどういう……
+wav/voice_ev_shuffle_20_07_84_10.wav|1|……たしかに！そういうつながりかたもあったんだ……！
+wav/voice_ev_shuffle_20_07_85_10.wav|1|あ、ちょっとビビ、頭すりつけたらくすぐったいってば！
+wav/voice_ev_shuffle_20_07_87_10.wav|1|そ、それは嬉しいんですけど……！あはは……く、くすぐったい……！
+wav/voice_ev_shuffle_20_08_01_10.wav|1|——ってわけで、撮影はなんとかうまくいったんだ
+wav/voice_ev_shuffle_20_08_04_10.wav|1|ビビがいなくなった頃、新しい店ができる関係で通りのトラックが多くってさ
+wav/voice_ev_shuffle_20_08_05_10.wav|1|もしかしたら、間違ってそのうちの１台に乗りこんじゃったんじゃないかなって
+wav/voice_ev_shuffle_20_08_09_10.wav|1|やっぱりビビッドストリートに帰りたかったみたいで、私が帰る時についてきてくれてさ。今はちゃーんとその辺りでのんびりしてるよ！
+wav/voice_ev_shuffle_20_08_12_10.wav|1|うん！
+wav/voice_ev_shuffle_20_08_14_10.wav|1|汚しちゃったドレスも、絹谷さんが綺麗にクリーニングしてくれたみたいで安心したよ～
+wav/voice_ev_shuffle_20_08_15_10.wav|1|……っと、着いた着いた！こんにちはー！
+wav/voice_ev_shuffle_20_08_17_10.wav|1|バッチリ大成功でした！それで、メイコさんにもお礼を言おうと思って
+wav/voice_ev_shuffle_20_08_19_10.wav|1|あの、こはねから聞きました。一緒に歌うといいっていうアイディアをくれたのはメイコさんだったって
+wav/voice_ev_shuffle_20_08_20_10.wav|1|ありがとうございました！おかげで私らしく撮ってもらうことができました！
+wav/voice_ev_shuffle_20_08_24_10.wav|1|……えへへ。メイコさんにそう言われると、ちょっと照れちゃうな……
+wav/voice_ev_shuffle_20_08_31_10.wav|1|えっ
+wav/voice_ev_shuffle_20_08_35_10.wav|1|あー！　こはねー！そういうことは今言わなくていいから……！
+wav/voice_ev_shuffle_20_08_39_10.wav|1|ないない！いや全然なくはないけど……願望って言うとなんか重いでしょ！
+wav/voice_ev_shuffle_20_08_40_10.wav|1|たしかにメイコさんとか雫さんみたいな頼れるお姉さんは素敵だなって思うけど、甘えるっていうか、私もそうなりたいっていうか——
+wav/voice_ev_shuffle_20_08_41_10.wav|1|あ……
+wav/voice_ev_shuffle_20_08_43_10.wav|1|……そっか。私、無意識に、そうなりたいって思ってたのかも
+wav/voice_ev_shuffle_20_08_44_10.wav|1|しっかりしてて、頼りになって……。そういう人が私の憧れだから、大人っぽい自分を変に作ろうとしてたのかもしれないな
+wav/voice_ev_shuffle_20_08_45_10.wav|1|（それで、多分それは——）
+wav/voice_ev_shuffle_20_08_46_10.wav|1|（凪さんがいたからだろうな）
+wav/voice_ev_shuffle_20_08_48_10.wav|1|あ、ごめんごめん！なんでもないよ！
+wav/voice_ev_shuffle_20_08_49_10.wav|1|とにかく、みんなのおかげで、それは今の私らしくないって気づけたんだ！
+wav/voice_ev_shuffle_20_08_50_10.wav|1|それに……これからなりたい自分も、改めてわかったしね！
+wav/voice_ev_shuffle_20_08_52_10.wav|1|うん
+wav/voice_ev_shuffle_20_08_53_10.wav|1|私、みんなに誇れる自分でいたいなって思うの。こはねにも、彰人にも、冬弥にも、メイコさん達にも……それから街の人達にも！
+wav/voice_ev_shuffle_20_08_54_10.wav|1|だからどんなことにも全力でぶつかって、乗り越えていきたいなって思うんだ！
+wav/voice_ev_shuffle_20_08_55_10.wav|1|（それでいつか——）
+wav/voice_ev_shuffle_20_08_56_10.wav|1|（いつか、絶対に超えるんだ！）
+wav/voice_ev_shuffle_20_08_63_10.wav|1|え？
+wav/voice_ev_shuffle_20_08_65_10.wav|1|わぁ……！あ、チョコケーキにのってるのってラムレーズンアイスですか！？
+wav/voice_ev_shuffle_20_08_73_10.wav|1|ふふっ
+wav/voice_ev_shuffle_20_08_74_10.wav|1|よーし！食べたら、みんなで練習頑張ろうね！
+wav/voice_ev_shuffle_20_08_75_10.wav|1|あ～美味しかった！今なら丸一日歌えちゃいそうだよ！
+wav/voice_ev_shuffle_20_08_80_10.wav|1|んー……。もしかしたら、歌ってほしいのかも
+wav/voice_ev_shuffle_20_08_82_10.wav|1|前、こはねには話したんだけど、ビビって音楽がわかる猫だって言われててさ。うまい歌はじっと聴いてくれるんだよ！
+wav/voice_ev_shuffle_20_08_88_10.wav|1|オッケー！　それじゃあいくよー！
+wav/voice_ev_shuffle_20_08_107_10.wav|1|……はぁ！ねえ、今のかなり良かったんじゃない！？
+wav/voice_ev_shuffle_20_08_111_10.wav|1|ふふっ。なんだかもう１曲って言ってるみたいだね！
+wav/voice_ev_shuffle_20_08_112_10.wav|1|それじゃあビビが満足するまで、歌っちゃうよー！！
+wav/voice_ev_street_09_01_01_10.wav|1|っは～！　疲れた～！やっと休憩できるよ～……
+wav/voice_ev_street_09_01_11_10.wav|1|あー、ごめんね心配かけちゃって。さっきまで合同練習してたからバテちゃってさ～
+wav/voice_ev_street_09_01_13_10.wav|1|うん。次のイベントに向けてね！今、新達と企画してるイベントがあるんだけど、せっかくだから時間の合う日は一緒に練習しようってことになってさ
+wav/voice_ev_street_09_01_44_10.wav|1|ふふっ。ほら、ふたりとも仲良く仲良く！
+wav/voice_ev_street_09_01_45_10.wav|1|それじゃあ——改めてみんなで見よっか！ミク達も一緒にどう？
+wav/voice_ev_street_09_01_69_10.wav|1|（ヒント……ヒント……）
+wav/voice_ev_street_09_01_70_10.wav|1|（あ——ダメダメ。見入っちゃう。今は冷静にヒントを探さなきゃいけないのに）
+wav/voice_ev_street_09_01_71_10.wav|1|（にしても……RAD WEEKENDは、本当にすごいな）
+wav/voice_ev_street_09_01_72_10.wav|1|（何回も見てるはずなのに、見てるだけでドキドキして……。気づいたら、もう虜になってる）
+wav/voice_ev_street_09_01_73_10.wav|1|…………ふふっ
+wav/voice_ev_street_09_01_74_10.wav|1|やっぱり、すごいな……
+wav/voice_ev_street_09_01_79_10.wav|1|あはは！　リンちゃんらしいな～
+wav/voice_ev_street_09_01_83_10.wav|1|お、なになに！？
+wav/voice_ev_street_09_01_88_10.wav|1|……もしかしたら、父さん達がこのあと解散したからかな
+wav/voice_ev_street_09_01_89_10.wav|1|あの日、ステージに立ってた人達は、これが父さん達の最後のイベントだってみんな知ってたのかもしれないな
+wav/voice_ev_street_09_01_96_10.wav|1|あ、こはねも？実は私もちょっとそう思ってたんだ
+wav/voice_ev_street_09_01_101_10.wav|1|うん。しかもそれだけじゃなくって、凪さんが周りの人をいい感じにやる気にさせてるみたいに見えたんだよね
+wav/voice_ev_street_09_01_102_10.wav|1|うちの父さんと大河おじさんも、登場した時は力入った顔してたけど、凪さんが声かけたら、少し肩の力抜けてたみたいだしさ
+wav/voice_ev_street_09_01_103_10.wav|1|あの凪さんのパワーは本当にすごかったよね！いつ見てもかっこいいなって思うよ
+wav/voice_ev_street_09_01_105_10.wav|1|うん。そうだよ。私がすごく小さい頃から面倒見てくれてたんだ
+wav/voice_ev_street_09_01_106_10.wav|1|父さんや大河おじさんと一緒に、よく歌の練習を見てくれたりして……。あの頃は本当に楽しかったな
+wav/voice_ev_street_09_01_108_10.wav|1|え？　凪さんと練習してた時のこと？
+wav/voice_ev_street_09_01_116_10.wav|1|凪さんについて……か。んー、話すのはいいけど、どこから話そうかな……
+wav/voice_ev_street_09_01_117_10.wav|1|あ、それじゃあ、あの時のこととかどうかな
+wav/voice_ev_street_09_01_118_10.wav|1|凪さんは——本当に、いつだってかっこよかったんだよ
+wav/voice_ev_street_09_08_01_10.wav|1|——っていうことがあったんだよ
+wav/voice_ev_street_09_08_09_10.wav|1|あー、まあまあそれはいいから！
+wav/voice_ev_street_09_08_11_10.wav|1|じっくりしなくていいってば！　もう……
+wav/voice_ev_street_09_08_14_10.wav|1|えっ、私に！？
+wav/voice_ev_street_09_08_15_10.wav|1|そ、そうかな……？凪さんは私より、もっとかっこいいと思うけど……
+wav/voice_ev_street_09_08_17_10.wav|1|影響か……たしかにね
+wav/voice_ev_street_09_08_18_10.wav|1|凪さんみたいにかっこよくなりたいっていう想いが、今の私につながってるような気もするし——
+wav/voice_ev_street_09_08_19_10.wav|1|何より、街のみんなが大好きだっていう気持ちは、凪さんのおかげでちゃんと気づけた気がするな
+wav/voice_ev_street_09_08_20_10.wav|1|それに……この街をもっと好きになりたいって思えたし
+wav/voice_ev_street_09_08_26_10.wav|1|その言葉、って……？
+wav/voice_ev_street_09_08_31_10.wav|1|大河おじさん、新にそんなこと言ってたんだ！街……街かぁ……
+wav/voice_ev_street_09_08_39_10.wav|1|それ以外にあるとしたら……あとは……人、かな
+wav/voice_ev_street_09_08_40_10.wav|1|私だからそう思うのかもしれないけど、ビビッドストリートはみんな人情深くて、音楽が大好きで……
+wav/voice_ev_street_09_08_41_10.wav|1|街の人達が今とは全然違う人達だったら、また違う街になってると思うんだ
+wav/voice_ev_street_09_08_49_10.wav|1|でも……『街を見ろ』っていうのは、大事なことのような気がするね
+wav/voice_ev_street_09_08_50_10.wav|1|……凪さんもすごく、街の人を大事にしてたから
+wav/voice_ev_street_09_08_53_10.wav|1|ん～！いろいろ考えてたら、結構遅くなっちゃったね
+wav/voice_ev_street_09_08_56_10.wav|1|一言多いんだけど～？
+wav/voice_ev_street_09_08_59_10.wav|1|ふふ、今度はふたりとも見に来てよ！あ、それとも今度は、ここでやらせてもらっちゃおっかなー♪
+wav/voice_ev_street_09_08_65_10.wav|1|うん！　みんなバイバーイ！おじさん達もまたね！
+wav/voice_ev_street_09_08_66_10.wav|1|ただいま～！
+wav/voice_ev_street_09_08_68_10.wav|1|うん！　練習だけじゃなくて次のイベントの打ちあわせしたり、いろいろ話しあってたから時間かかっちゃった
+wav/voice_ev_street_09_08_69_10.wav|1|あ——今日ね、こはね達に凪さんの話をしたんだよ
+wav/voice_ev_street_09_08_71_10.wav|1|うん。みんな、RAD WEEKENDの中心人物は、凪さんなんじゃないかーって思ってるみたいでさ
+wav/voice_ev_street_09_08_72_10.wav|1|あはは、もちろん父さん達３人が中心だって思ってるけどね。トップバッターの凪さんがすごい迫力だから、みんな印象に残ったみたいでさ
+wav/voice_ev_street_09_08_73_10.wav|1|実際私も、頭の１曲はすっごい痺れたし！
+wav/voice_ev_street_09_08_75_10.wav|1|それでいろいろ聞かれて、凪さんの話をしてたんだ
+wav/voice_ev_street_09_08_76_10.wav|1|ほら、私が小学生の時、家出したことがあったでしょ？あの時凪さんが見つけてくれたこととか話したの！
+wav/voice_ev_street_09_08_78_10.wav|1|ふふっ、あの時の父さんの心配した顔、ちょっと嬉しかったな～
+wav/voice_ev_street_09_08_79_10.wav|1|父さんって、何かあってもいーっつも平気そうにしてるから、あの顔はすっごくレアだと思うんだよね！
+wav/voice_ev_street_09_08_81_10.wav|1|えー？あれ以来、そういうとこ全然見たことないけどな～
+wav/voice_ev_street_09_08_82_10.wav|1|あ……そういえばさ
+wav/voice_ev_street_09_08_83_10.wav|1|みんなに凪さんの話をしたら、凪さんと私が似てるって言われたんだけど……。どうかな？　似てるかな？
+wav/voice_ev_street_09_08_84_10.wav|1|私も凪さんみたいになれたらなって思ってたからちょっとでも近づけてたら嬉しいなーって思うんだけど！
+wav/voice_ev_street_09_08_87_10.wav|1|本当？えへへ、父さんにそう言われると嬉しいな！
+wav/voice_ev_street_09_08_88_10.wav|1|よーし！　RAD WEEKENDを超えるためにも、もっと頑張って、凪さんに近づかなくっちゃね！
+wav/voice_ev_street_09_08_91_10.wav|1|あ、うん！じゃあ、クローズにしておくね！
+wav/voice_ev_street_09_08_92_10.wav|1|——プレートはこれでよし、と
+wav/voice_ev_street_09_08_93_10.wav|1|あ……今日は星が綺麗！よく見えるな
+wav/voice_ev_street_09_08_94_10.wav|1|（でも……）
+wav/voice_ev_street_09_08_95_10.wav|1|（なんでかな。私には、この街の灯りが一番綺麗に見えるんだよね）
+wav/voice_ev_street_09_08_96_10.wav|1|（ここに住んでない人からしてみたら、ちょっと怖そうな街の、ギラギラした通りって感じだろうけど）
+wav/voice_ev_street_09_08_97_10.wav|1|（街のみんながここにいる、ここで頑張ってるって——感じられるからなのかも）
+wav/voice_ev_street_09_08_98_10.wav|1|……あーあ。凪さん、今頃アメリカでどうしてるんだろう？連絡くらいくれればいいのに
+wav/voice_ev_street_09_08_99_10.wav|1|あ！　今度メッセージ送ってみよ！凪さん驚くかなー？
+wav/voice_ev_street_09_08_100_10.wav|1|みんなのことも紹介したいし、イベントにも呼びたいし……報告することいっぱいだな！
+wav/voice_ev_street_09_08_101_10.wav|1|よーし！　凪さんをあっと言わせるためにも、次のイベント、頑張るぞ～！！
+wav/voice_ev_street_09_08_71b_10.wav|1|みんな、RAD WEEKENDの中心人物は、凪さんなんじゃないかーって思ってるみたいでさ
+wav/voice_op_street0_14_10.wav|1|はい、コーヒーおまちどうさま！
+wav/voice_op_street0_15_10.wav|1|それがまだなんだぁ。ずっと探してるけど、見つからないんだよねー
+wav/voice_op_street0_16_10.wav|1|うーん、良い人だったんだけど『RAD WEEKEND』を超えるイベントをやりたいって話したら無理だって返されちゃって
+wav/voice_op_street0_17_10.wav|1|ま、普通やっぱりそうだよね……
+wav/voice_op_street0_18_10.wav|1|……でも、私、絶対超えてみせるから！
+wav/voice_op_street0_19_10.wav|1|よし、片づけはこれでオッケー！
+wav/voice_op_street0_20_10.wav|1|父さん、カフェタイム終わったから、出かけてくるね！
+wav/voice_op_street0_21_10.wav|1|わかってるってば！もうそんな子どもじゃないのに……。じゃ、いってきます！
+wav/voice_op_street0_22_10.wav|1|よしっ！マイクもばっちりだし、そろそろ歌おっかな
+wav/voice_op_street0_23_10.wav|1|ふふ、みんないつもありがとう！今日も思いっきり歌っちゃうねー！
+wav/voice_op_street0_25_10.wav|1|（うん、喉の調子もいい感じ。お客さんも増えてきたし、もっと盛り上げていこう！）
+wav/voice_op_street0_28_10.wav|1|ふぅ、今日もみんなノってくれたし、最高のパフォーマンスができた気がする！
+wav/voice_op_street0_29_10.wav|1|……でも、まだまだ足りないよね
+wav/voice_op_street0_30_10.wav|1|もっと練習しないといけないし、何より、一緒にイベントをやってくれる相棒を探さないとだし
+wav/voice_op_street0_31_10.wav|1|いやいや、大変だけど、やってやろうじゃん！
+wav/voice_op_street0_32_10.wav|1|私は『RAD WEEKEND』に負けない、最高のイベントをやるんだから！
+wav/voice_op_street0_33_10.wav|1|って、何？　急にスマホが光って……
+wav/voice_op_street0_34_10.wav|1|『Untitled（アンタイトル）』？こんな曲、入れてたっけ？
+wav/voice_op_street0_35_10.wav|1|わっ、まぶしい……っ！？
+wav/voice_op_street0_36_10.wav|1|……あれ？　ここ、どこ？
+wav/voice_op_street0_37_10.wav|1|どこかのカフェ……？でも、私、さっきまでスクランブル交差点にいて……？
+wav/voice_op_street0_39_10.wav|1|え、誰？
+wav/voice_op_street0_41_10.wav|1|あっ、もしかしてこのお店の子？悪いんだけど、ここがどこだか教えてくれない？
+wav/voice_op_street0_42_10.wav|1|変な話なんだけど、気がついたらここにいて……
+wav/voice_op_street0_44_10.wav|1|え？　あなたも？
+wav/voice_op_street0_50_10.wav|1|いや、おかしいでしょ！　ミク達と話せるわけないし……。これって、夢？
+wav/voice_op_street0_54_10.wav|1|想いでできた場所？
+wav/voice_op_street0_57_10.wav|1|本当の想い？　歌が生まれる……？
+wav/voice_op_street0_58_10.wav|1|うーん、ごめん。何言ってるのか全っ然わかんない
+wav/voice_op_street0_66_10.wav|1|私？私はもちろん！　伝説を超えたいって思ってる！
+wav/voice_op_street0_68_10.wav|1|そう。中学の時に見た『RAD WEEKEND』ってイベントを超えるって決めてるんだ
+wav/voice_op_street0_69_10.wav|1|もうすっごい熱いイベントで、界隈じゃ、『あの伝説のイベントは絶対に超えられない』って言われてるんだけど……
+wav/voice_op_street0_70_10.wav|1|でも、絶対に超えてみせる！！
+wav/voice_op_street0_72_10.wav|1|そう？　照れるなあ。でも、私なんてまだまだだよ。練習もまだまだ足りないし、相棒も見つかってないし
+wav/voice_op_street0_73_10.wav|1|それでも、やってみなくちゃ始まんないからさ。今は毎日路上で歌って、イベントにも出て、腕磨いてるんだ
+wav/voice_op_street0_76_10.wav|1|かもね？　でも、気が向いたらそういう風にやってみるのも悪くないんじゃない？　
+wav/voice_op_street0_79_10.wav|1|ま、また！？
+wav/voice_op_street0_81_10.wav|1|ん……？　あれ、私、いつの間に……？って、もうバー営業の時間！？急いで準備しないと……！
+wav/voice_op_street0_82_10.wav|1|そんなことないと思うけど……。なんだか不思議な夢を見てて……
+wav/voice_op_street0_83_10.wav|1|うん！　なんだか誰かと話してた気がするんだけど、あんまり覚えてなくて……
+wav/voice_op_street0_84_10.wav|1|ま、いっか。私、看板出してくるね！
+wav/voice_ms_street1_36_10.wav|1|んー、そうだなー……考えといてあげる！
+wav/voice_ms_street1_37_10.wav|1|オッケー！じゃあアレンジ入れてくよ！
+wav/voice_ms_street1_43_10.wav|1|あー、気持ちよかった！　ありがとね、みんな！
+wav/voice_ms_street1_44_10.wav|1|ありがと。でもまだまだ全然だよ。私、もっともっと歌えるようになりたいんだ
+wav/voice_ms_street1_45_10.wav|1|で、『RAD WEEKEND』（ラッドウィークエンド）を超える最高のイベントをやるの！
+wav/voice_ms_street1_48_10.wav|1|いつの間にかって、父さん達の『あのイベント』を見てぼんやりしてられるわけないでしょ？
+wav/voice_ms_street1_49_10.wav|1|待ってて！　私、いつか父さんを超えてみせるから！
+wav/voice_ms_street1_50_10.wav|1|はーいはい！もう、人使い荒いんだから……あれ？　お客さん？
+wav/voice_ms_street1_52_10.wav|1|ごめんね、歌うのに夢中で気づかなくって！どうぞ。ここの席、あいてるよ？
+wav/voice_ms_street1_54_10.wav|1|え？　あ、ちょっと！……行っちゃった……
+wav/voice_ms_street1_54a_10.wav|1|あのお客さん、どこかで会ったことあるような……？ライブに来てくれた子かな？
+wav/voice_ms_street2_53_10.wav|1|いらっしゃーい。……あれ？
+wav/voice_ms_street2_55_10.wav|1|あ！　もしかして、このあいだのぞいてた子じゃない？
+wav/voice_ms_street2_57_10.wav|1|私くらいの年の女の子が来るなんて、珍しいから覚えてたんだ！よかった、また来てくれたんだね！
+wav/voice_ms_street2_58_10.wav|1|父さーん！　前にのぞきに来てくれたかわいいお客さん！　また来てくれたよ！
+wav/voice_ms_street2_59_10.wav|1|ようこそ！ WEEKEND GARAGEへ！
+wav/voice_ms_street3_02_10.wav|1|ん？　父さん、エプロンはずしてるけどどこか出かけるの？
+wav/voice_ms_street3_03_10.wav|1|はーい、了解。お客さん今はこの子だけだし、ゆっくりしてきて大丈夫だよ
+wav/voice_ms_street3_05_10.wav|1|あれ？　もしかして、緊張してる？
+wav/voice_ms_street3_07_10.wav|1|あはは、大丈夫だって。そんなに硬くならないでよ。その制服、宮女のだよね。私と同い年くらいでしょ？
+wav/voice_ms_street3_09_10.wav|1|じゃあ一緒だよ！私、神高の１年だから
+wav/voice_ms_street3_11_10.wav|1|あはは、私、白石杏。よろしくね
+wav/voice_ms_street3_13_10.wav|1|同い年なんだし、杏って呼んでよ。ねえねえ、それより私、こはねが来てくれてすごく嬉しいんだ！
+wav/voice_ms_street3_14_10.wav|1|うちの店に来るお客さんって、女の子少ないんだよねー。父さんに憧れてる男の人が多くってさぁ
+wav/voice_ms_street3_16_10.wav|1|そうそう！　よく知ってるね！
+wav/voice_ms_street3_18_10.wav|1|うん。それでずっと活動してたんだけど、２年前に引退して、この店始めたの。だから昔の仲間とか、ファンとか、いっぱい来るんだ
+wav/voice_ms_street3_20_10.wav|1|うん。あの人たちも、父さんのファンのミュージシャン。よく一緒に歌おうってイベントとかにも誘ってくれるんだ
+wav/voice_ms_street3_22_10.wav|1|うん。出てるよ。このへん、ライブハウスとかクラブも多いから出やすいんだ
+wav/voice_ms_street3_24_10.wav|1|あの時？　ああ、この前来てくれた時？
+wav/voice_ms_street3_26_10.wav|1|そっか、それでわざわざ来てくれたんだね
+wav/voice_ms_street3_27_10.wav|1|そういうことなら、今、歌おっか！
+wav/voice_ms_street3_29_10.wav|1|あ、今は前みたいにマイクリレーできないからとりあえず私だけで歌うね
+wav/voice_ms_street3_34_10.wav|1|ふぅ！　どうだった……ん？
+wav/voice_ms_street3_38_10.wav|1|！！
+wav/voice_ms_street3_40_10.wav|1|……もしかしてこはね、歌えるの？
+wav/voice_ms_street3_42_10.wav|1|ていうか、ちょっと歌ってみない！？今聴いた感じ、歌詞も覚えてそうだし！　はいマイク！
+wav/voice_ms_street3_44_10.wav|1|おねがい！　こはねの歌、聴いてみたくって！大丈夫、こはねなら、きっとカッコよく歌えるよ！
+wav/voice_ms_street3_46_10.wav|1|もちろん！
+wav/voice_ms_street3_48_10.wav|1|（やっぱり、この子……！！）
+wav/voice_ms_street3_49_10.wav|1|（リズムはまだ甘いし、体の芯から乗り切れてない……でも）
+wav/voice_ms_street3_50_10.wav|1|（この声！　柔らかいのに、響いて、伸びて……！！しかもそれだけじゃない！）
+wav/voice_ms_street3_51_10.wav|1|（ただ、一緒に歌ってみたい、って思わされる！！）
+wav/voice_ms_street3_53_10.wav|1|……見つけた！　やっと見つけた！
+wav/voice_ms_street4_13_10.wav|1|そう！　今、こはねも思わなかった？一緒に歌うと、すっごく気持ちいいって！
+wav/voice_ms_street4_15_10.wav|1|こはね。『私なんか』なんて、言わないでよ
+wav/voice_ms_street4_16_10.wav|1|私、小さい頃から、イベントやこのお店でいろんな人の歌を聴いてきたよ。その中には、歌の上手い人もたくさんいた
+wav/voice_ms_street4_17_10.wav|1|でも、今日こはねと歌った瞬間が、一番ドキドキした！だから、こはねと一緒にもっといろんな歌を歌いたいの！
+wav/voice_ms_street4_22_10.wav|1|うん！　やろうよ！
+wav/voice_ms_street4_23_10.wav|1|それに、迷惑だっていっぱいかけていいし！
+wav/voice_ms_street4_25_10.wav|1|お互い困った時は助け合う、みたいな感じでさ。こはねが困ったら私が助ける！だから私が困ったら、こはねが助けてよ！
+wav/voice_ms_street4_27_10.wav|1|うちの父さんにね、そんな仲間がいたんだ
+wav/voice_ms_street4_28_10.wav|1|この街で出会った音楽仲間で、ずっと一緒に助け合って、ケンカして、歌ってたんだって
+wav/voice_ms_street4_29_10.wav|1|引退の時、父さん、その仲間と一緒に、『RAD WEEKEND』ってイベントをやったの
+wav/voice_ms_street4_37_10.wav|1|あはは、ちょっと熱くなっちゃった。返事はいつでもいいからさ。もしも、私とやってもいいって思ってくれたら……
+wav/voice_ms_street4_39_10.wav|1|え？
+wav/voice_ms_street4_41_10.wav|1|本当に！？じゃあ、一緒に歌ってくれるの！？
+wav/voice_ms_street4_43_10.wav|1|うん！　ありがとうこはね！
+wav/voice_ms_street4_46_10.wav|1|あ、お客さんだ。ごめん、ちょっと待っててね。いらっしゃ……あ、彰人と冬弥か！　
+wav/voice_ms_street4_48_10.wav|1|いらっしゃい！　いつも来てくれてありがとね
+wav/voice_ms_street4_54_10.wav|1|このふたりは私と同じ神高の１年なんだよ。ふたりとも父さんのファンなんだ
+wav/voice_ms_street4_55_10.wav|1|BAD DOGSって名前で歌ってるから、近くのハコでやる前とか後とか、たまにうちに寄ってくるの
+wav/voice_ms_street4_61_10.wav|1|ふふ、いいタイミングで聞いてくれるじゃん。実は見つかったんだ！　しかもついさっき！
+wav/voice_ms_street4_64_10.wav|1|そう！　こはねが私の相棒！今日、一緒に歌ってみてわかったの！
+wav/voice_ms_street4_68_10.wav|1|え！　イベントの経験ないんだ！それであんなに歌えるなんてすごいよこはね！
+wav/voice_ms_street4_70_10.wav|1|人前だってきっとすぐ慣れるって。そしたら、彰人達にだって絶対負けないよ！
+wav/voice_ms_street5_06_10.wav|1|REDか……。たしかにあそこなら小さめだし、初めて出るにはいいかもね
+wav/voice_ms_street5_07_10.wav|1|こはね、せっかくだし出てみない？みんなに私達の歌を聴いてもらいたいし！
+wav/voice_ms_street5_09_10.wav|1|大丈夫！　来月だったらわりと練習もできるし、それに、私も一緒だしね！
+wav/voice_ms_street5_13_10.wav|1|オッケー！　誘ってくれてありがとね、彰人
+wav/voice_ms_street5_37_10.wav|1|よーし！　イベントに出ることになったわけだし、まずは急いで歌う曲決めよっか！
+wav/voice_ms_street5_39_10.wav|1|いい感じ！　難しい曲でも問題なく歌えそうだね。やっぱり、こはねはすごいよ！
+wav/voice_ms_street5_41_10.wav|1|これでだいたい候補は出そろったかな。他に気になる歌とか、ある？
+wav/voice_ms_street5_43_10.wav|1|あ、これカッコイイよね！じゃあ、これも候補に入れよっか
+wav/voice_ms_street5_45_10.wav|1|どうしたの？
+wav/voice_ms_street5_47_10.wav|1|え？　……あ、本当だ。『Untitled』ってなってる
+wav/voice_ms_street5_48_10.wav|1|ダウンロードする時にうまくいかなかったのかもね。なんの曲か、聴いてみたら？
+wav/voice_ms_street5_50_10.wav|1|……こはね。それ、なんか光ってない？
+wav/voice_ms_street5_54_10.wav|1|知らない通り……。えっと……私達、店にいたよね？なんで外にいるんだろう？
+wav/voice_ms_street5_56_10.wav|1|んー。とりあえず、歩き回ってみよっか。もしかしたら、知ってる通りに出るかもしれないし……
+wav/voice_ms_street5_58_10.wav|1|こはねも？　実は私もなんだよね。なんとなく、ビビッドストリートに似てて……
+wav/voice_ms_street5_59_10.wav|1|あれ？　このフライヤー……『RAD WEEKEND』のフライヤーだ！
+wav/voice_ms_street5_60_10.wav|1|なんでこんなところに？父さん、全部なくなったって言ってたのに……
+wav/voice_ms_street5_62_10.wav|1|あ、ほんとだ。カフェバーかな？あそこで道聞いてみよう！
+wav/voice_ms_street5_63_10.wav|1|すみませーん！　誰かいますか？
+wav/voice_ms_street6_03_10.wav|1|これ、どうなってるの！？
+wav/voice_ms_street6_07_10.wav|1|ねえこはね、これって映像だよね？ミクもメイコもバーチャル・シンガーだし……
+wav/voice_ms_street6_12_10.wav|1|なんだかよくわからないけど、ふたりともなんか知ってるみたいだし……行ってみよう！
+wav/voice_ms_street6_18_10.wav|1|その、さっきから言ってる『セカイ』ってなんなの？
+wav/voice_ms_street6_22_10.wav|1|夢って……たしかに私は『RAD WEEKEND』よりすごいイベントをやりたいって思ってるけど……
+wav/voice_ms_street6_23_10.wav|1|でも、だからってこんな場所ができるわけないじゃない
+wav/voice_ms_street6_27_10.wav|1|そういえばさっき、もうないはずの『RAD WEEKEND』のフライヤーがあった……！
+wav/voice_ms_street6_28_10.wav|1|じゃあ、ここって本当に……私達の想いでできた場所なの？
+wav/voice_ms_street6_32_10.wav|1|『Untitled』って、こはねのスマホに入ってた曲だよね。たしかに、あの曲を聴こうとしたからこっちに来たし……
+wav/voice_ms_street6_38_10.wav|1|こはね……？
+wav/voice_ms_street6_49_10.wav|1|うん。よろしくね！
+wav/voice_ms_street6_51_10.wav|1|え？　そうだけど？
+wav/voice_ms_street6_54_10.wav|1|じゃあ『RAD WEEKEND』を超えるって想いを持ってる人が、他にもいるんだ！
+wav/voice_ms_street6_55_10.wav|1|誰だろう？　うちの店に来たことある人はよく『RAD WEEKEND』の話をしてるけど……
+wav/voice_ms_street6_56_10.wav|1|あ！　ってか、店！
+wav/voice_ms_street6_58_10.wav|1|私、店開けっぱなしで来ちゃったんだよね。早く戻らないと……
+wav/voice_ms_street6_61_10.wav|1|また来るよ、レンくん！今日はありがとう！
+wav/voice_ms_street6_62_10.wav|1|えーっと、『Untitled』を停止すればいいのかな？あ、私のスマホにも入ってる
+wav/voice_ms_street7_02_10.wav|1|一体どうなってるんだろう？……それにしてもなんだかすごい体験しちゃったね、私達！
+wav/voice_ms_street7_05_10.wav|1|あ、そうだよね。今日は遅くまでありがとう。また連絡するね！
+wav/voice_ms_street7_13_10.wav|1|『こはね、明日の放課後ってヒマ？ビビッドストリートで練習しない？』
+wav/voice_ms_street7_16_10.wav|1|こはね、お待たせー！
+wav/voice_ms_street7_18_10.wav|1|それじゃ、あっちのほうに行こっか。私のとっておきの練習場所があるんだ！
+wav/voice_ms_street7_20_10.wav|1|あ、店長さん！　そうなんだ。頑張るね！
+wav/voice_ms_street7_21_10.wav|1|うん、ありがと！　絶対聴きに来てよね
+wav/voice_ms_street7_24_10.wav|1|よし、到着！じゃあ練習始めよっか
+wav/voice_ms_street7_26_10.wav|1|うん。このあたりって人も多いし、たくさんの人に聴いてもらえるんだよね
+wav/voice_ms_street7_28_10.wav|1|曲は、昨日歌ったのと同じヤツ。アカペラでね。先に私が歌うから、こはねはこはねのタイミングで入ってきて！
+wav/voice_ms_street7_37_10.wav|1|お疲れさま、こはね。初めてにしては上出来上出来！　
+wav/voice_ms_street7_39_10.wav|1|でしょ？　ビビッドストリートに来る人達ってみんな音楽が好きだから、ああやって応援してくれるんだ
+wav/voice_ms_street7_40_10.wav|1|ね、ハマっちゃいそうじゃない？
+wav/voice_ms_street7_42_10.wav|1|そういえば、私達のユニット名考えてみたんだ。この通りの名前からとってさ……
+wav/voice_ms_street8_15_10.wav|1|ついに明日が本番だね！こはね、心の準備はできてる？
+wav/voice_ms_street8_17_10.wav|1|やれることはやったし、明日は全力でやろ！明日の流れはさっき言った通りだからね
+wav/voice_ms_street8_46_10.wav|1|こはね！　こっちこっち！あ！　新しい服で来たんだね！
+wav/voice_ms_street8_48_10.wav|1|ふふ、こはねっぽくていいと思うよ。あ、今日はメガネだけど、次はコンタクトにしてみたら？
+wav/voice_ms_street8_51_10.wav|1|わかった。ありがとね、彰人
+wav/voice_ms_street9_12_10.wav|1|大丈夫だよ、こはね。落ち着いて
+wav/voice_ms_street9_13_10.wav|1|私達は私達なりに歌えばいいからさ。だから今日は、まずこの空気を楽しんで！
+wav/voice_ms_street9_17_10.wav|1|こはね、行くよ！
+wav/voice_ms_street9_21_10.wav|1|（……いくよ、こはね）
+wav/voice_ms_street9_26_10.wav|1|（……消えた！？）
+wav/voice_ms_street9_30_10.wav|1|（まずい！このままじゃ、温まってきてた空気が壊れる……！）
+wav/voice_ms_street9_31_10.wav|1|（こはねは……）
+wav/voice_ms_street9_33_10.wav|1|（空気に呑まれちゃってる……。無理もないよね、初めてのイベントなんだから）
+wav/voice_ms_street9_34_10.wav|1|（……でも、だからこそ、このまま台無しになんてさせない）
+wav/voice_ms_street9_35_10.wav|1|（ふたりで『RAD WEEKEND』を超えるなら……こんなところでつまずくわけにはいかない！）
+wav/voice_ms_street9_42_10.wav|1|……あの状況じゃ仕方ないよ。突然音が止まるなんて、私も思わなかったし……
+wav/voice_ms_street9_45_10.wav|1|こはね……
+wav/voice_ms_street9_49_10.wav|1|何？　ケンカ？
+wav/voice_ms_street9_51_10.wav|1|音を……止めた？
+wav/voice_ms_street10_01_10.wav|1|音を止めたって……どういうこと？
+wav/voice_ms_street10_03_10.wav|1|まさかあれ、彰人達がやったの……？
+wav/voice_ms_street10_08_10.wav|1|……どういうつもり！？　わざわざ誘っておいてこんなまね……！！
+wav/voice_ms_street10_12_10.wav|1|初めてのイベントでトラブルなんて起きたら、どうしようもないでしょ！
+wav/voice_ms_street10_17_10.wav|1|……それは……
+wav/voice_ms_street10_19_10.wav|1|違う！　こはねは、本気だった！このイベントのためにずっと一生懸命練習して……
+wav/voice_ms_street10_29_10.wav|1|あんた……！　あ、待ってこはね！！
+wav/voice_ms_street10_30_10.wav|1|……見損なった！
+wav/voice_ms_street4_17_10b.wav|1|今日こはねと歌った瞬間が、一番ドキドキした！だから、こはねと一緒にもっといろんな歌を歌いたいの！
+wav/voice_ms_street11_51_10.wav|1|あ、うん。ごめん……
+wav/voice_ms_street11_52_10.wav|1|うん
+wav/voice_ms_street11_53_10.wav|1|（メッセージ、既読はついたけど……返ってこなかったな……）
+wav/voice_ms_street11_55_10.wav|1|（こはねに、もっとこの街のことも、イベントのことも好きになってもらいたかったのに……）
+wav/voice_ms_street11_56_10.wav|1|（でも……）
+wav/voice_ms_street11_57_10.wav|1|……ごめん父さん！私、今からこはねに会いに……
+wav/voice_ms_street11_59_10.wav|1|え…………こはね！？
+wav/voice_ms_street12_02_10.wav|1|そんなの全然いいよ！それより、その髪、どうしたの！？　メガネも……！
+wav/voice_ms_street12_04_10.wav|1|そっか、ミク達に会ったんだ
+wav/voice_ms_street12_06_10.wav|1|決めた？
+wav/voice_ms_street12_12_10.wav|1|………………！！
+wav/voice_ms_street12_13_10.wav|1|……やっぱり思った通りだった
+wav/voice_ms_street12_14_10.wav|1|こはねは私の、最高の相棒だね！
+wav/voice_ms_street12_16_10.wav|1|よーし、また練習して、ふたりでイベントに出よう！BAD DOGSのふたりも見返してやる！
+wav/voice_ms_street12_17_10.wav|1|それでいつか、『RAD WEEKEND』を超えるイベントをふたりでやろう！
+wav/voice_ms_street12_20_10.wav|1|噂をすれば、ちょうどいいところに来たじゃん
+wav/voice_ms_street12_29_10.wav|1|ねえあんた達、次どこで歌うの？私達、あんた達の出るイベントに出ようと思ってるんだよね
+wav/voice_ms_street12_41_10.wav|1|いいね。じゃあそこでやろっか。今度は正々堂々、ね
+wav/voice_ms_street12_50_10.wav|1|よく頑張ったね、こはね
+wav/voice_ms_street12_52_10.wav|1|わ！　……と、父さん、今の聞いてたの？
+wav/voice_ms_street12_54_10.wav|1|ちょっと父さん！私はともかく、彰人と似てるってどういうこと？
+wav/voice_ms_street12_55_10.wav|1|譲れないもの？
+wav/voice_ms_street12_56_10.wav|1|彰人に譲れないもの……？あんなヤツに、そんなのあるの……？
+wav/voice_ms_street13_12_10.wav|1|そんなこと言って、ビビんないでよ？私達の最高の歌、見せてあげるから！
+wav/voice_ms_street13_13_10.wav|1|あ、あと、今度は卑怯な手、使わないでよね
+wav/voice_ms_street13_20_10.wav|1|（あのふたり、うまいのは知ってたけど、今回は一段と気合が入ってたし、ここまでやるなんて……）
+wav/voice_ms_street13_21_10.wav|1|（それなのに、前はどうして音を止めたりなんか……）
+wav/voice_ms_street13_22_10.wav|1|……ううん。今は集中しなくちゃ
+wav/voice_ms_street13_24_10.wav|1|当たり前でしょ？ちゃーんと最前列で聴いててよね！
+wav/voice_ms_street13_25_10.wav|1|それじゃこはね！　私達の最高の歌、たっぷり聴かせてあげちゃおっか！
+wav/voice_ms_street13_30_10.wav|1|こはね、大丈夫。私がついてる
+wav/voice_ms_street13_31_10.wav|1|今日が『RAD WEEKEND』を超えるための、最初の一歩を踏む日だよ！
+wav/voice_ms_street13_37_10.wav|1|（やろうこはね！　私達ならできるよ！！）
+wav/voice_ms_street13_52_10.wav|1|どう？　こはねの実力、思い知ったでしょ
+wav/voice_ms_street13_57_10.wav|1|もちろん！
+wav/voice_ms_street13_62_10.wav|1|あれ？　意外とあっさりじゃん。もしかして、案外素直？
+wav/voice_ms_street13_64_10.wav|1|はーいはい。……あ、そうだ。あんた達も悪くなかったんじゃない？　彰人、冬弥♪
+wav/voice_ms_street13_66_10.wav|1|さっ、こはね。控室に戻ろっか！
+wav/voice_ms_street14_24_10.wav|1|ふふ、決意の証だよね。こはね！
+wav/voice_ms_street14_34_10.wav|1|あ、そういえば、ここは４人の想いで出来てるって言ってたけど、あとのふたりって誰だかわかってるの？
+wav/voice_ms_street14_36_10.wav|1|彰人……冬弥！？
+wav/voice_ms_street14_38_10.wav|1|あ、知り合いっていうか…………ちょっといろいろあって……
+wav/voice_ms_street14_39_10.wav|1|たしかに、あのふたりも『RAD WEEKEND』を超えるって、夢は持ってるって言ってたけど……
+wav/voice_ms_street14_63_10.wav|1|それがよくわかんないの。セカイの話をしようかなって思ったけど、ずっとあんなんだから話せないし……
+wav/voice_ms_street14_65_10.wav|1|うん。そうなんだよね。もしかして、ケンカでもしたのかな？
+wav/voice_ms_street14_67_10.wav|1|ま、そのうち落ち着くでしょ。それよりさ、近くの『SPACE』ってクラブの人に、今度うちで歌わないかって誘われてるの。どう？　やらない？
+wav/voice_ms_street15_01_10.wav|1|あ、彰人
+wav/voice_ms_street15_03_10.wav|1|いちゃ悪い？　それより、ひとりなんて珍しいじゃん。もしかして、ついに相棒に逃げられた～？
+wav/voice_ms_street15_07_10.wav|1|……何あれ。しょんぼりしちゃって……
+wav/voice_ms_street15_09_10.wav|1|そうなのかもね。でも、こはねが心配してやるほどのことじゃないって
+wav/voice_ms_street15_28_10.wav|1|こはねー！　ごめん、ギリギリになっちゃった！
+wav/voice_ms_street15_31_10.wav|1|へー、そうなんだ。てことは……かなり本気のケンカしたのかな？
+wav/voice_ms_street15_32_10.wav|1|でも、こはね、なんでそんなにあのふたりの心配してるの？私達にあんなことしたヤツなのに……
+wav/voice_ms_street15_35_10.wav|1|それはそうだけど……
+wav/voice_ms_street15_37_10.wav|1|あ！　あんた、REDのイベントの時にあのふたりとグルになって音止めたヤツ！
+wav/voice_ms_street15_38_10.wav|1|なに。なんか用？
+wav/voice_ms_street15_40_10.wav|1|あれ、あのふたりが仕組んだわけじゃなかったの？
+wav/voice_ms_street15_41_10.wav|1|はぁ……なんでああいうことするかな。イベント台無しになったじゃん
+wav/voice_ms_street15_42_10.wav|1|でも、なんで急に？黙ってたらわからなかったのに
+wav/voice_ms_street15_43_10.wav|1|うーん、わかった！　もうあんなことしないでよね。約束だよ！
+wav/voice_ms_street15_45_10.wav|1|そっか……あのふたり、何もしてなかったんだ……
+wav/voice_ms_street15_48_10.wav|1|冬弥、ちょっといい？
+wav/voice_ms_street15_51_10.wav|1|あんたと話したいって言うから、ここで待っててもらったの
+wav/voice_ms_street15_53_10.wav|1|バレなきゃ大丈夫だって。うちの学校、交流試合とかで他の高校の子よく来るし。というか、バレてもばっちり誤魔化すし！
+wav/voice_ms_street15_55_10.wav|1|天馬先輩とか神代先輩とかと違って、こはねは神高の風紀を乱さないからいーの
+wav/voice_ms_street15_56_10.wav|1|ほら、こはね。言いたいことあるんでしょ？
+wav/voice_ms_street15_61_10.wav|1|あれ、あんた達がやったんじゃないんでしょ？
+wav/voice_ms_street15_62_10.wav|1|やった人が、ちゃんと説明してくれたよ。彰人達は、本当は真っ向勝負するつもりだったって
+wav/voice_ms_street16_06_10.wav|1|何それ。自覚なかったの？
+wav/voice_ms_street16_07_10.wav|1|……ま、正直、あんたって表情筋動かないから考えてることまったく読めないけど……
+wav/voice_ms_street16_08_10.wav|1|彰人とやってる時だけはよくわかるよ。すっごく楽しんでるって
+wav/voice_ms_street16_11_10.wav|1|ちょっと！　用があるなんてさっきは……
+wav/voice_ms_street16_20_10.wav|1|そうでもないんじゃない？こはねのおかげで、あいつのことちょっとわかったし
+wav/voice_ms_street16_22_10.wav|1|どっかの誰かさんと一緒で、けっこう頑固なタイプっぽいってこと
+wav/voice_ms_street16_24_10.wav|1|どういう事情があるかはわからないけどさ。もうちょっと自分に素直になればいいのにね
+wav/voice_ms_street16_25_10.wav|1|それで、どうする？　あきらめる？
+wav/voice_ms_street16_28_10.wav|1|そう言うと思った
+wav/voice_ms_street16_29_10.wav|1|じゃあ、うちで作戦会議しよっか。私も最後まで、付き合うからさ！
+wav/voice_ms_street16_62_10.wav|1|あれ、もうこんな時間？そろそろバー営業の準備しなきゃ
+wav/voice_ms_street17_47_10.wav|1|……やっぱり、外行こうかこはね。大事な話みたいだし
+wav/voice_ms_street18_27_10.wav|1|え……？　私達？
+wav/voice_ms_street18_36_10.wav|1|え？　父さん？
+wav/voice_ms_street19_54_10.wav|1|で、お客さんご注文はどうします？
+wav/voice_ms_street19_58_10.wav|1|そっちがこっちのこと無視して話してただけじゃない。水差すのもなんだから今まで黙ってたのに
+wav/voice_ms_street19_59_10.wav|1|……でも、よかったじゃん
+wav/voice_ms_street19_64_10.wav|1|ちょっとちょっと！『RAD WEEKEND』を超えるのは私達なんだから！勝手に決めないでよね！
+wav/voice_ms_street19_67_10.wav|1|……？　今、声が……？
+wav/voice_ms_street19_69_10.wav|1|え！？　本当だ！！
+wav/voice_ms_street20_09_10.wav|1|みんなって……BAD DOGSも一緒に歌うの？
+wav/voice_ms_street20_11_10.wav|1|へ～面白いこと言ってくれるじゃん。Vividsの出番ばっかりにならないように気を付けてよね？
+wav/voice_ms_street20_21_10.wav|1|あー！　すっごい気持ちよかった！やるじゃん、BAD DOGS！！
+wav/voice_ms_street20_28_10.wav|1|ほんとだ！えっと……『Ready Steady』？
+wav/voice_ms_street20_39_10.wav|1|あるものはあるんだから、信じるしかないでしょ？
+wav/voice_ms_street20_40_10.wav|1|ねえねえ、ところで、ちょっといいアイディアがあるんだけど、３人とも聞いてくれる？
+wav/voice_ms_street20_42_10.wav|1|私達、４人で組んでイベントやらない？
+wav/voice_ms_street20_45_10.wav|1|セカイで一緒にやった時、悔しいけど、すごく楽しかったんだ！それに、最高にいい音出せたなって思ったの！
+wav/voice_ms_street20_46_10.wav|1|４人とも『RAD WEEKEND』を超える最高のイベントをやるって想いは、同じみたいだし
+wav/voice_ms_street20_47_10.wav|1|だったらこの４人で組んだほうが、もっと近づけるんじゃないかって。どう？
+wav/voice_ms_street20_52_10.wav|1|そうこなくっちゃ！
+wav/voice_ms_street20_53_10.wav|1|じゃあ早速、私達の名前決めようよ！
+wav/voice_ms_street20_54_10.wav|1|Vividsはビビッドストリートからとってたから、そっちのBADとくっつけて『Vivid BAD』ってどう？
+wav/voice_ms_street20_56_10.wav|1|えー！そう言うんならアイディア出してよね！
+wav/voice_ms_street20_58_10.wav|1|あ、確かにそれはいいかも！４人だから『Forth』とか……？
+wav/voice_ms_street20_64_10.wav|1|さすがはこはね！　私の頼れるパートナー♪
+wav/voice_ms_street20_67_10.wav|1|……こはね～！！いつでも私に頼っていいんだからね！　大好きっ！
+wav/voice_unit_piapro12_01_10.wav|1|こんにちはー！
+wav/voice_unit_piapro12_05_10.wav|1|それが……。実は今日、うちの店で練習しようと思ってたんだけど父さんの昔馴染みが来てたから使えなくて
+wav/voice_unit_piapro12_07_10.wav|1|やったー！
+wav/voice_unit_piapro12_10_10.wav|1|よしっ、じゃあさっそく歌おっか
+wav/voice_unit_piapro12_14_10.wav|1|え、なんで？　そこは私の歌も含めてしっかり聴かせて、後半の盛り上がりに繋げる方がいいでしょ
+wav/voice_unit_piapro12_16_10.wav|1|それはそうだけど、でも、このこはねのパートは音の重なりをもっと大事にして——
+wav/voice_unit_piapro12_18_10.wav|1|止めないで、こはね。これは私と彰人のこだわりの問題だから
+wav/voice_unit_piapro12_22_10.wav|1|あ、そうだ。こういう時はミクとメイコさんにアドバイスをもらおうよ
+wav/voice_unit_piapro12_24_10.wav|1|ったく、あんたねぇ……
+wav/voice_unit_piapro12_25_10.wav|1|ねえ、ミク、メイコさん！
+wav/voice_unit_piapro12_26_10.wav|1|私と彰人が今から歌うから、どっちの歌い方がこはねのパートに合ってるか教えてくれないかな？
+wav/voice_unit_piapro12_27_10.wav|1|ありがとうございます！
+wav/voice_unit_piapro12_29_10.wav|1|じゃあ彰人、これで決着つけようか！
+wav/voice_unit_piapro12_32_10.wav|1|あ、えっと……。そうだね！　みんなで歌おっか
+wav/voice_unit_piapro12_34_10.wav|1|リンちゃんとレンくんがせっかく一緒に歌いたいって言ってくれてるんだし、この決着つけるのは、みんなで歌った後でもいいんじゃない？
+wav/voice_selfep_street_01_10.wav|1|さてと……。ライブのMCだと思って話せばいいんだよね？
+wav/voice_selfep_street_02_10.wav|1|オッケー。こほん……
+wav/voice_selfep_street_03_10.wav|1|やっほー！　みんな楽しんでくれてるー？
+wav/voice_selfep_street_04_10.wav|1|Vivid BAD SQUAD白石杏です
+wav/voice_selfep_street_05_10.wav|1|今日は私達の歌を聴きに来てくれてありがとう！
+wav/voice_selfep_street_06_10.wav|1|もともとは、こはねとふたりでVividsっていう名前で歌ってたの
+wav/voice_selfep_street_07_10.wav|1|彰人や冬弥と組むようになったのは……
+wav/voice_selfep_street_08_10.wav|1|あー……まあ、ちょっとあってね
+wav/voice_selfep_street_09_10.wav|1|４人で組むのも面白そうだなって思えたし、こうして一緒にステージに立つことも多くなったってわけ
+wav/voice_selfep_street_10_10.wav|1|世の中、何があるかわからないもんだよね
+wav/voice_selfep_street_11_10.wav|1|そうそう、私には……。ううん、私達には夢があるの
+wav/voice_selfep_street_12_10.wav|1|みんなは『KEN』ってミュージシャンのこと知ってる？
+wav/voice_selfep_street_13_10.wav|1|私の父さんで、今は 『WEEKEND GARAGE』っていうライブカフェ＆バーを経営してるんだけど……
+wav/voice_selfep_street_14_10.wav|1|は？　この界隈で知らないやつなんていない？
+wav/voice_selfep_street_15_10.wav|1|ちょっと彰人、MCに割り込んでこないでよね
+wav/voice_selfep_street_16_10.wav|1|えっと、知ってる人も多いと思うけど、父さんは地元のみんなから愛されてたミュージシャンだったの
+wav/voice_selfep_street_17_10.wav|1|その父さんのミュージシャンとしての集大成……
+wav/voice_selfep_street_18_10.wav|1|それが伝説のイベント、『RAD WEEKEND』！
+wav/voice_selfep_street_19_10.wav|1|父さんが言うにはね、あのイベントは自分ひとりじゃ絶対に成功しなかったんだって
+wav/voice_selfep_street_20_10.wav|1|自分が信じる最高の仲間とだからこそ、たどり着けた場所だって……
+wav/voice_selfep_street_21_10.wav|1|父さんが仲間やお客さん達と気持ちよさそうに歌ってた、あのステージ……
+wav/voice_selfep_street_22_10.wav|1|今でもはっきりと覚えてる……。あのワクワクする気持ち！
+wav/voice_selfep_street_23_10.wav|1|だから私も、『RAD WEEKEND』を超えるイベントをやりたい！
+wav/voice_selfep_street_24_10.wav|1|私の信じる仲間と一緒に、必ず叶えてみせるって決めてるの
+wav/voice_selfep_street_25_10.wav|1|それで、仲間を探していた時に出会ったのがこはね！
+wav/voice_selfep_street_26_10.wav|1|歌声を聴いて『この子だ！』『この子しかいない』って確信した
+wav/voice_selfep_street_27_10.wav|1|この子と歌いたい。そう思わせてくれる歌声だったから
+wav/voice_selfep_street_28_10.wav|1|私達、組んだばっかりだし経験は浅いけど、歌には結構自信あるよ
+wav/voice_selfep_street_29_10.wav|1|だから、今日のライブも期待しててよね！
+wav/voice_selfep_street_30_10.wav|1|よし！　こんな感じでしょ！
+wav/voice_ms_street1_26_09.wav|2|あ…………。ど、どうしよう…………
+wav/voice_ms_street1_27_09.wav|2|また違う通りにでちゃった……。く、暗くなってきたし……
+wav/voice_ms_street1_28_09.wav|2|（……なんで、私、いつもこうなんだろう……。人に道を聞く勇気もなくって……）
+wav/voice_ms_street1_29_09.wav|2|（そのせいで、何もできなくて……）
+wav/voice_ms_street1_30_09.wav|2|………………？　これ……歌？
+wav/voice_ms_street1_31_09.wav|2|あそこのお店から……？
+wav/voice_ms_street1_32_09.wav|2|WEEKEND GARAGE（ウィークエンドガレージ）？オープンって書いてあるけど、何のお店なんだろう……
+wav/voice_ms_street1_33_09.wav|2|あ……お店の人なら、道教えてくれるかな？……でも、知らないお店になんて……
+wav/voice_ms_street1_34_09.wav|2|でもこのままじゃ、真っ暗になっちゃうし……い……行ってみよう……
+wav/voice_ms_street1_38_09.wav|2|……あ、あの……
+wav/voice_ms_street1_39_09.wav|2|！！
+wav/voice_ms_street1_40_09.wav|2|（…………なに、これ…………！）
+wav/voice_ms_street1_41_09.wav|2|（耳がビリビリして……怖いくらいなのに……）
+wav/voice_ms_street1_42_09.wav|2|…………すごい……カッコイイ…………！！
+wav/voice_ms_street1_46_09.wav|2|（あの子……何か夢があるのかな？）
+wav/voice_ms_street1_47_09.wav|2|（……だから歌ってるところもあんなにカッコイイのかな）
+wav/voice_ms_street1_51_09.wav|2|……あ！
+wav/voice_ms_street1_53_09.wav|2|あっ……え、えっと……あの……ご、ごめんなさい！！
+wav/voice_ms_street1_55_09.wav|2|ハァ、ハァ、ハァ、ハァ、ハァ…………！！
+wav/voice_ms_street1_56_09.wav|2|（……逃げちゃった。せっかく声かけてくれたのに……）
+wav/voice_ms_street1_57_09.wav|2|（でも……なんだろう？　なんだろうこの感じ……）
+wav/voice_ms_street1_58_09.wav|2|胸が……ドキドキしてる……！
+wav/voice_ms_street2_01_09.wav|2|………………
+wav/voice_ms_street2_02_09.wav|2|（今日見たあの子、かっこよかったなぁ。やっぱり、夢のためにがんばってる人ってキラキラしてる……）
+wav/voice_ms_street2_03_09.wav|2|そういえば、あの子が歌ってたの聴いたことない曲だったけど……スマホで探したら、動画とか出てくるかな
+wav/voice_ms_street2_04_09.wav|2|えっと、たしかサビが……
+wav/voice_ms_street2_05_09.wav|2|……やっぱり、これだけじゃ見つからないよね。そろそろ、宿題しなきゃいけない時間だけど……
+wav/voice_ms_street2_06_09.wav|2|……やっぱり、もうちょっとだけ探してみよう！
+wav/voice_ms_street2_08_09.wav|2|えっ？
+wav/voice_ms_street2_09_09.wav|2|スマホが……！
+wav/voice_ms_street2_11_09.wav|2|……ミクちゃん……の、ホログラム映像？
+wav/voice_ms_street2_14_09.wav|2|えっ！？
+wav/voice_ms_street2_16_09.wav|2|な、なんで私の名前……
+wav/voice_ms_street2_18_09.wav|2|え、え……！？
+wav/voice_ms_street2_19_09.wav|2|な、なんだったんだろう……今のミクちゃん。『キミ達のセカイのミク』とか言ってたけど……
+wav/voice_ms_street2_20_09.wav|2|あ、この曲！あの子がお店で歌ってた曲だ！
+wav/voice_ms_street2_21_09.wav|2|見つかってよかった……！えへへ、さっきの不思議なミクちゃんのおかげかな？　
+wav/voice_ms_street2_22_09.wav|2|……あれ？　でもサビのところがちょっと違う？アレンジとか入ってるのかな
+wav/voice_ms_street2_23_09.wav|2|ここが違うのかな。たしか……
+wav/voice_ms_street2_24_09.wav|2|うーん……リズムが違うのかも。あの子、喋るみたいにスラスラ歌ってたし……
+wav/voice_ms_street2_25_09.wav|2|難しいな……でも、ちょっと近くなったかな……？えーっと……
+wav/voice_ms_street2_27_09.wav|2|わっ！　え？　えっと……こういう曲なんだけど……
+wav/voice_ms_street2_29_09.wav|2|……あ、へ、変だよね……私がこういうの……
+wav/voice_ms_street2_31_09.wav|2|あ、ううん。最近聴くようになったの。１週間くらい前に、カフェで歌ってるのを聴いて……
+wav/voice_ms_street2_33_09.wav|2|うん。WEEKEND GARAGEっていうカフェ
+wav/voice_ms_street2_34_09.wav|2|調べたら、お店のマスターが昔有名なミュージシャンだったみたいで、地元の音楽好きな人が集まって、歌ってるんだって
+wav/voice_ms_street2_37_09.wav|2|胸に響く……
+wav/voice_ms_street2_38_09.wav|2|（……あの時のドキドキする感じも、もう一回行って、あの子に会えたら……）
+wav/voice_ms_street2_39_09.wav|2|あれ？　明るいからかな……この通り、前より怖くないかも
+wav/voice_ms_street2_40_09.wav|2|この壁の落書きも、よく見るとすごい……！確かグラフィティっていうんだっけ？
+wav/voice_ms_street2_41_09.wav|2|……うん。なんだか、大丈夫な気がしてきた
+wav/voice_ms_street2_42_09.wav|2|えっと、WEEKEND GARAGEは、ここを曲がって……
+wav/voice_ms_street2_46_09.wav|2|あった！　WEEKEND GARAGE！
+wav/voice_ms_street2_47_09.wav|2|…………
+wav/voice_ms_street2_48_09.wav|2|（私……このお店に入って、本当にいいのかな……）
+wav/voice_ms_street2_49_09.wav|2|（前、私逃げちゃったし……あそこにいた人達、嫌な気持ちにさせたかも……）
+wav/voice_ms_street2_50_09.wav|2|…………
+wav/voice_ms_street2_51_09.wav|2|ううん。またあの歌を聴きに行くって、決めたんだから！
+wav/voice_ms_street2_52_09.wav|2|だから……開けなくちゃ！！
+wav/voice_ms_street2_54_09.wav|2|あっ……！　あ、あの……その……っ！
+wav/voice_ms_street2_56_09.wav|2|え？
+wav/voice_ms_street2_60_09.wav|2|…………！
+wav/voice_ms_street3_01_09.wav|2|あっ、ありがとうございます
+wav/voice_ms_street3_04_09.wav|2|（……ふ、ふたりだけになっちゃった……！？）
+wav/voice_ms_street3_06_09.wav|2|えっ！　あっ……ごめんなさい！
+wav/voice_ms_street3_08_09.wav|2|同い年？わ、私、高校１年生ですけど……
+wav/voice_ms_street3_10_09.wav|2|１年生……！？私より年上だと思ってた……
+wav/voice_ms_street3_12_09.wav|2|あ、小豆沢こはねです！その、よろしくお願いします。えっと……し、白石さん
+wav/voice_ms_street3_15_09.wav|2|お父さんって、さっきいた人です……だよね？ここのマスターさんで、有名なミュージシャンだっていう……
+wav/voice_ms_street3_17_09.wav|2|あっ、少しネットで見ただけだけど……。その、このビビッドストリートを中心に活動してた人だって
+wav/voice_ms_street3_19_09.wav|2|じゃあこのあいだ、一緒に歌ってたのも……？
+wav/voice_ms_street3_21_09.wav|2|イベント？　白石さ……あ、えっと、……あ、杏ちゃんって、イベントに出てるの？
+wav/voice_ms_street3_23_09.wav|2|だからすごく慣れてる感じだったんだね！あの時もすっごくかっこよかったし……
+wav/voice_ms_street3_25_09.wav|2|うん。私、あの時……す、すごくドキドキしたの！それで、も、もう一回聴けたらいいなって……
+wav/voice_ms_street3_28_09.wav|2|え？
+wav/voice_ms_street3_30_09.wav|2|えっ！？ど、どうしよう……まだ心の準備が……！！
+wav/voice_ms_street3_31_09.wav|2|………………！！
+wav/voice_ms_street3_32_09.wav|2|（やっぱり動画と全然ちがう……！すっごくドキドキして……！）
+wav/voice_ms_street3_33_09.wav|2|………………！やっぱりカッコイイ……！
+wav/voice_ms_street3_35_09.wav|2|すっごく……すっごくカッコよかったよ！ありがとう杏ちゃん！
+wav/voice_ms_street3_36_09.wav|2|特にあのアレンジのところが……！えっと、あそこの……
+wav/voice_ms_street3_37_09.wav|2|♪――――ってところとか、♪～～ってところとか！
+wav/voice_ms_street3_39_09.wav|2|あとは、最後の……
+wav/voice_ms_street3_41_09.wav|2|え？
+wav/voice_ms_street3_43_09.wav|2|え、ちょっと、待っ……！わ、私、こんなところで歌ったりできないよ！
+wav/voice_ms_street3_45_09.wav|2|…………す、少しだけなら大丈夫だけど……。でも……笑わないでね？
+wav/voice_ms_street3_52_09.wav|2|……ハァ、ハァ……。すごい……気持ちよかった……！
+wav/voice_ms_street3_56_09.wav|2|……ええっ！？
+wav/voice_ms_street4_12_09.wav|2|く、組むって……私が、杏ちゃんと！？
+wav/voice_ms_street4_14_09.wav|2|それは……そうだったけど……。で、でも、私なんかが、杏ちゃんと一緒になんて……
+wav/voice_ms_street4_18_09.wav|2|ドキドキした……？私の歌に……？
+wav/voice_ms_street4_19_09.wav|2|…………
+wav/voice_ms_street4_20_09.wav|2|……私、人前に立つと緊張しちゃうし……杏ちゃんに迷惑かけちゃいそうだけど……
+wav/voice_ms_street4_21_09.wav|2|変われる、のかな……。やってみてもいいのかな……？
+wav/voice_ms_street4_24_09.wav|2|え？
+wav/voice_ms_street4_26_09.wav|2|……！
+wav/voice_ms_street4_29a_09.wav|2|『RAD WEEKEND』……？
+wav/voice_ms_street4_31_09.wav|2|ドキドキ……
+wav/voice_ms_street4_35_09.wav|2|（……杏ちゃんってやっぱりカッコイイ。自分で夢を見つけて、まっすぐ進んでて……）
+wav/voice_ms_street4_36_09.wav|2|（私、やっぱり……）
+wav/voice_ms_street4_38_09.wav|2|……やってみたい
+wav/voice_ms_street4_40_09.wav|2|私も、そんなイベントやってみたい。杏ちゃんと一緒に……やってみたい！
+wav/voice_ms_street4_42_09.wav|2|えっと、どこまでできるかはわからないけど、がんばってみる……！
+wav/voice_ms_street4_44_09.wav|2|（どうしよう……やるって言ったけど、やっぱり、ちょっと怖いなって感じるし……）
+wav/voice_ms_street4_45_09.wav|2|（でも、なんだろう……すごくドキドキする……！杏ちゃんと一緒に歌っていけるなんて……！）
+wav/voice_ms_street4_50_09.wav|2|（ちょ、ちょっと怖そうな感じの人達だなぁ……。でも、杏ちゃんの知り合いみたいだし、そんなことないよね）
+wav/voice_ms_street4_52_09.wav|2|は、はじめまして。小豆沢こはねです
+wav/voice_ms_street4_57_09.wav|2|中学……？ってことは、中学の頃からイベントに！？　すごい……！
+wav/voice_ms_street4_66_09.wav|2|えっ？　い、いえ……まだイベントに出たこともなくって……音楽の授業くらいでしか、歌ったことが……
+wav/voice_ms_street4_73_09.wav|2|……え！？
+wav/voice_ms_street5_01_09.wav|2|イ、イベントに……！？
+wav/voice_ms_street5_08_09.wav|2|で、でも来月なんて、そんな急に……大丈夫かな……
+wav/voice_ms_street5_10_09.wav|2|（……あ。そうか、ふたりで歌うってことは、隣に杏ちゃんがいてくれるんだ……）
+wav/voice_ms_street5_11_09.wav|2|……それなら……できるかも……
+wav/voice_ms_street5_38_09.wav|2|……うん！　そうだね！
+wav/voice_ms_street5_40_09.wav|2|そ、そんな……
+wav/voice_ms_street5_42_09.wav|2|……あ、ミクちゃんが歌ってるこの曲、どうかな？
+wav/voice_ms_street5_44_09.wav|2|うん！　……あれ？
+wav/voice_ms_street5_46_09.wav|2|プレイリストにタイトルのない曲が入ってる……
+wav/voice_ms_street5_49_09.wav|2|うん。……あれ？　何も聴こえない……。やっぱりミスしちゃったのかも……？
+wav/voice_ms_street5_51_09.wav|2|え？　本当だ、タイトルが光って……？わ、まぶしい……っ！！
+wav/voice_ms_street5_52_09.wav|2|……び、びっくりした……今のなんだったんだろう……
+wav/voice_ms_street5_53_09.wav|2|……！！えっ？　こ、ここ、どこ？
+wav/voice_ms_street5_55_09.wav|2|そうだ、スマホの地図で……あれ、う、動かない……？ど、どうしちゃったんだろう私達……
+wav/voice_ms_street5_57_09.wav|2|う、うん。……でも、知らないところのはずなのに、なんだか見たことあるような……？
+wav/voice_ms_street5_61_09.wav|2|あ！　杏ちゃん、あんなところにお店があるよ！
+wav/voice_ms_street5_65_09.wav|2|え……ミクちゃん！？
+wav/voice_ms_street6_02_09.wav|2|ミ、ミクちゃんが……
+wav/voice_ms_street6_06_09.wav|2|メイコさんも……！？
+wav/voice_ms_street6_08_09.wav|2|そのはずだけど……でも、透けたりしてないみたいだし……
+wav/voice_ms_street6_11_09.wav|2|あ、杏ちゃん……
+wav/voice_ms_street6_13_09.wav|2|素敵なお店……
+wav/voice_ms_street6_14_09.wav|2|でも、ここもやっぱり、なんだか来たことがあるような気が……
+wav/voice_ms_street6_16_09.wav|2|キミ達のセカイ……？それってどこかで聞いたような……あ！
+wav/voice_ms_street6_17_09.wav|2|もしかして……あの時のミクちゃん……？
+wav/voice_ms_street6_26_09.wav|2|あ……！
+wav/voice_ms_street6_33_09.wav|2|あ、あの……ちょっと聞いてもいいですか？
+wav/voice_ms_street6_35_09.wav|2|あの……ここって本当に“私達”の想いのセカイなんですか？
+wav/voice_ms_street6_37_09.wav|2|夢を叶えたい想いでできてるって言ってましたけど、私、杏ちゃんみたいにしっかりした夢は……まだ……
+wav/voice_ms_street6_39_09.wav|2|だから、ここは杏ちゃんの想いでできた場所なんじゃないかなって思うんですけど……
+wav/voice_ms_street6_42_09.wav|2|想いを、歌に……？
+wav/voice_ms_street6_53_09.wav|2|４人？私達の他にも、誰かがいるってことですか？
+wav/voice_ms_street6_63_09.wav|2|あっ……！あ、ありがとうございました！
+wav/voice_ms_street6_66_09.wav|2|……え？
+wav/voice_ms_street7_01_09.wav|2|……あ……お店に戻ってこられた……！
+wav/voice_ms_street7_03_09.wav|2|うん。なんだか夢を見てたみたいだね
+wav/voice_ms_street7_04_09.wav|2|……あっ！　もうこんな時間！私、家に帰らなくっちゃ
+wav/voice_ms_street7_06_09.wav|2|うん、またね！
+wav/voice_ms_street7_07_09.wav|2|…………はぁ。今日は本当に、いろいろあったなぁ……
+wav/voice_ms_street7_08_09.wav|2|WEEKEND GARAGEに行って、杏ちゃんと歌うことになって……
+wav/voice_ms_street7_09_09.wav|2|そしたら東雲くん達にイベントに誘われて
+wav/voice_ms_street7_10_09.wav|2|それから……不思議な場所でミクちゃん達とお話して……
+wav/voice_ms_street7_11_09.wav|2|あはは。いろいろありすぎて頭がパンクしちゃいそう
+wav/voice_ms_street7_12_09.wav|2|あ、杏ちゃんからメッセージだ
+wav/voice_ms_street7_14_09.wav|2|『うん、もちろんだよ』……っと。……えへへ
+wav/voice_ms_street7_15_09.wav|2|がんばって勇気出して、よかったな……
+wav/voice_ms_street7_17_09.wav|2|ううん。全然待ってないよ！
+wav/voice_ms_street7_19_09.wav|2|うん！
+wav/voice_ms_street7_22_09.wav|2|（やっぱり、杏ちゃんってすごいなぁ……。どんな人とでも明るくハキハキ話せて）
+wav/voice_ms_street7_23_09.wav|2|（それに……自分の目指す夢に向かってまっすぐ進んでて……）
+wav/voice_ms_street7_25_09.wav|2|え？ここ、普通の通りだけど……
+wav/voice_ms_street7_29_09.wav|2|え、えええ……！？
+wav/voice_ms_street7_30_09.wav|2|（あ……杏ちゃんて……やっぱりすごい……）
+wav/voice_ms_street7_31_09.wav|2|（わ、私も……こんな風にやれるのかな……。……うう。恥ずかしいし怖いけど……）
+wav/voice_ms_street7_32_09.wav|2|（でも、まずはやってみなくちゃ！）
+wav/voice_ms_street7_34_09.wav|2|（……み、見られてる……！どうしよう、声が震えちゃいそう……！）
+wav/voice_ms_street7_35_09.wav|2|（え？　あ……みんな、乗ってくれてる……。人も集まって……）
+wav/voice_ms_street7_36_09.wav|2|（なんだろう、これ……この感じ……！）
+wav/voice_ms_street7_38_09.wav|2|ありがとう杏ちゃん。緊張したけど、途中からみんなが乗ってくれて……すごく嬉しかった！
+wav/voice_ms_street7_41_09.wav|2|……うん！
+wav/voice_ms_street7_43_09.wav|2|うんうん
+wav/voice_ms_street8_16_09.wav|2|うん。杏ちゃんのおかげで人前で歌う練習もたくさんできたし……大丈夫だと思う！
+wav/voice_ms_street8_18_09.wav|2|うん。がんばるね……！
+wav/voice_ms_street8_19_09.wav|2|……って言ったけど、やっぱり緊張するなぁ……。イベントって、怖そうな人いっぱいいるのかな……
+wav/voice_ms_street8_20_09.wav|2|あれ？あそこにいるのって、このあいだの……？
+wav/voice_ms_street8_22_09.wav|2|はい。えっと……青柳くんですよね。これからWEEKEND GARAGEに行くんですか？
+wav/voice_ms_street8_24_09.wav|2|はい……あ、う、うん。えっと……東雲くんとは一緒じゃないの？
+wav/voice_ms_street8_27_09.wav|2|そうなんだ……
+wav/voice_ms_street8_29_09.wav|2|え？　あ、うん
+wav/voice_ms_street8_31_09.wav|2|……え？
+wav/voice_ms_street8_33_09.wav|2|…………。……思ってる……って、思いたい……かな
+wav/voice_ms_street8_34_09.wav|2|えっと、そのイベントのことを知ったのも最近だし……本気じゃないって思われるかもしれないけど……
+wav/voice_ms_street8_36_09.wav|2|私、初めて杏ちゃんが歌っている姿を見た時、すごくドキドキしたんだ
+wav/voice_ms_street8_37_09.wav|2|でも、それ以上に、ふたりで一緒に歌った時、ドキドキしたの。こんなに楽しいことがあるんだ！って
+wav/voice_ms_street8_38_09.wav|2|だから、私には、今まで杏ちゃんみたいな夢はなかったけど……今は、杏ちゃんと一緒に歌って夢を追いかけたいって思うの
+wav/voice_ms_street8_39_09.wav|2|今、少しずつだけど、杏ちゃんと夢に向かってがんばれてて、とっても嬉しいんだ
+wav/voice_ms_street8_41_09.wav|2|あ、そうだ。あの……イベントに誘ってくれてありがとう
+wav/voice_ms_street8_43_09.wav|2|きっと誘ってもらえなかったら、私怖がっちゃって、イベントに出られなかったと思うし……
+wav/voice_ms_street8_44_09.wav|2|だから明日は、精一杯がんばるね
+wav/voice_ms_street8_47_09.wav|2|あ、その……よくわからなかったからお店の人に選んでもらって……へ、変かな？
+wav/voice_ms_street8_49_09.wav|2|め、目に何か入れるのってちょっと怖いけど……。……でもチャレンジしてみようかな
+wav/voice_ms_street8_52_09.wav|2|あ、あの……！きょ、今日はよろしくお願いします！
+wav/voice_ms_street9_10_09.wav|2|（……こ、これが……本物のイベント会場……！）
+wav/voice_ms_street9_11_09.wav|2|（ここに、これから立つなんて……）
+wav/voice_ms_street9_14_09.wav|2|う、うん……！
+wav/voice_ms_street9_18_09.wav|2|うん……！
+wav/voice_ms_street9_19_09.wav|2|（す、すごい熱気……！）
+wav/voice_ms_street9_20_09.wav|2|（“小さめのハコ”って杏ちゃん言ってたけど……すっごく大きく感じる……）
+wav/voice_ms_street9_22_09.wav|2|（……！　あ、合図だ）
+wav/voice_ms_street9_23_09.wav|2|（……あともう少しで私のパート……！大丈夫。落ち着いて……勇気をだせば……！）
+wav/voice_ms_street9_24_09.wav|2|（ちゃんと声が出た……！　これなら、いける……！！）
+wav/voice_ms_street9_25_09.wav|2|（え？　音が……？）
+wav/voice_ms_street9_29_09.wav|2|（ど、どうしよう……！音も止まって、マイクも使えない……！）
+wav/voice_ms_street9_32_09.wav|2|…………っ
+wav/voice_ms_street9_36_09.wav|2|あ……
+wav/voice_ms_street9_37_09.wav|2|（わ……私も……歌わなきゃ……！大丈夫！　みんなの前で、アカペラの練習だってしたし……！）
+wav/voice_ms_street9_38_09.wav|2|……っ、…………っ！
+wav/voice_ms_street9_39_09.wav|2|（…………なんで？）
+wav/voice_ms_street9_40_09.wav|2|（どうして……声が出せないの…………！）
+wav/voice_ms_street9_43_09.wav|2|でも……私……。……あんなに杏ちゃんに練習見てもらったのに……
+wav/voice_ms_street9_50_09.wav|2|……え？
+wav/voice_ms_street10_11_09.wav|2|……！
+wav/voice_ms_street10_22_09.wav|2|…………っ
+wav/voice_ms_street10_27_09.wav|2|……！
+wav/voice_ms_street10_37_09.wav|2|……あ、杏ちゃん……また……
+wav/voice_ms_street10_38_09.wav|2|（……返事しなくちゃ……。でも、なんて……？）
+wav/voice_ms_street10_39_09.wav|2|（東雲くんの言う通りだ……。私、心のどこかで、杏ちゃんと一緒だったら大丈夫って……）
+wav/voice_ms_street10_40_09.wav|2|（……だからあの時だって歌えなくて……。それで、杏ちゃんにも迷惑かけて……）
+wav/voice_ms_street10_41_09.wav|2|……………………っ
+wav/voice_ms_street10_42_09.wav|2|……う……ぐすっ……
+wav/voice_ms_street10_43_09.wav|2|あっ、スマホが……
+wav/voice_ms_street10_44_09.wav|2|……『Untitled』……
+wav/voice_ms_street10_58_09.wav|2|あ……
+wav/voice_ms_street10_60_09.wav|2|ミクちゃん……
+wav/voice_ms_street10_63_09.wav|2|メイコさん、レンくん……
+wav/voice_ms_street10_64_09.wav|2|……その……わ、私………
+wav/voice_ms_street11_02_09.wav|2|あの、ごめんなさい。急にこんな話して……
+wav/voice_ms_street11_04_09.wav|2|ありがとうございます……
+wav/voice_ms_street11_06_09.wav|2|うん……ありがとう
+wav/voice_ms_street11_07_09.wav|2|………………
+wav/voice_ms_street11_08_09.wav|2|……私、ダメですね……
+wav/voice_ms_street11_09_09.wav|2|私……杏ちゃんに夢をもらって、一生懸命歌おうって決めたのに……
+wav/voice_ms_street11_10_09.wav|2|全然、真剣さが足りてなくって……
+wav/voice_ms_street11_12_09.wav|2|結局、私、何も変われないままだな……
+wav/voice_ms_street11_14_09.wav|2|…………
+wav/voice_ms_street11_16_09.wav|2|……扉を……？
+wav/voice_ms_street11_17_09.wav|2|あ……
+wav/voice_ms_street2_51_09b.wav|2|またあの歌を聴きに行くって……決めたんだから！
+wav/voice_ms_street11_20_09.wav|2|私……でも……
+wav/voice_ms_street11_22_09.wav|2|…………
+wav/voice_ms_street11_24_09.wav|2|私の“本当の想い”……
+wav/voice_ms_street11_25_09.wav|2|わからない……でも……
+wav/voice_ms_street11_26_09.wav|2|私……お店で初めて歌った時すごくドキドキして、楽しかった
+wav/voice_ms_street11_27_09.wav|2|あのドキドキした瞬間が忘れられなくて、だから、杏ちゃんに誘ってもらえた時本当に嬉しかった
+wav/voice_ms_street11_28_09.wav|2|杏ちゃんと一緒に夢を追いかけられたらどんなに素敵だろうって思ったの
+wav/voice_ms_street11_30_09.wav|2|……………………
+wav/voice_ms_street11_31_09.wav|2|だから……
+wav/voice_ms_street11_32_09.wav|2|……本当の想いは……
+wav/voice_ms_street11_35_09.wav|2|……………………
+wav/voice_ms_street11_36_09.wav|2|……私は……私の本当の想いは……
+wav/voice_ms_street11_37_09.wav|2|杏ちゃんと一緒に、歌いたい
+wav/voice_ms_street11_38_09.wav|2|それで、杏ちゃんと一緒に『RAD WEEKEND』を超える最高のイベントをやりたい！
+wav/voice_ms_street11_40_09.wav|2|……ミクちゃん……
+wav/voice_ms_street11_41_09.wav|2|私、杏ちゃんに伝えてくる！
+wav/voice_ms_street11_43_09.wav|2|メイコさん……レンくん……皆さん、ありがとうございました！
+wav/voice_ms_street11_49_09.wav|2|……………
+wav/voice_ms_street11_50_09.wav|2|もっと、変わるんだ……。杏ちゃんと一緒に、最高のイベントをやるために
+wav/voice_ms_street12_01_09.wav|2|杏ちゃん、心配してくれたのに全然返事できなくて、ごめんね
+wav/voice_ms_street12_03_09.wav|2|うん。実は昨日ね……
+wav/voice_ms_street12_05_09.wav|2|うん。それで、私決めたの
+wav/voice_ms_street12_07_09.wav|2|うん
+wav/voice_ms_street12_08_09.wav|2|昨日、東雲くんにああいうふうに言われて、たしかに私は、みんなに比べて真剣になれてなかったって思ったの
+wav/voice_ms_street12_09_09.wav|2|でも、杏ちゃんと一緒にここで歌ったことを思い出して……やっぱり、杏ちゃんと一緒にたくさんの人を、ドキドキさせるイベントをやってみたいって、そう思った
+wav/voice_ms_street12_11_09.wav|2|だから、もう迷わないよ！
+wav/voice_ms_street12_15_09.wav|2|えへへ……ありがとう、杏ちゃん
+wav/voice_ms_street12_18_09.wav|2|うん！
+wav/voice_ms_street12_25_09.wav|2|……中途半端じゃないよ
+wav/voice_ms_street12_27_09.wav|2|私達、決めたの。もう一度イベントに出る
+wav/voice_ms_street12_35_09.wav|2|『RAD WEEKEND』のことも、ここで歌う人達の気持ちもまだまだ全然わかってないかもしれない。でも……
+wav/voice_ms_street12_36_09.wav|2|私は、ここで杏ちゃんと一緒に、みんながドキドキする、最高のイベントを作りたい！
+wav/voice_ms_street12_44_09.wav|2|え？
+wav/voice_ms_street12_49_09.wav|2|えっ、あ……ありがとう……
+wav/voice_ms_street12_51_09.wav|2|……えへへ……す、すっごくドキドキしたけど……
+wav/voice_ms_street12_53_09.wav|2|あ……ありがとうございます
+wav/voice_ms_street13_26_09.wav|2|……うん！
+wav/voice_ms_street13_27_09.wav|2|（……すごい人……）
+wav/voice_ms_street13_28_09.wav|2|（前に立たせてもらったステージよりもずっと、苦しいくらい熱気がたちこめてる……）
+wav/voice_ms_street13_29_09.wav|2|（怖くないって言ったら、嘘になる。……でも今は……）
+wav/voice_ms_street13_32_09.wav|2|うん！　ありがとう、杏ちゃん！
+wav/voice_ms_street13_33_09.wav|2|…………
+wav/voice_ms_street13_35_09.wav|2|（あの日、初めてWEEKEND GARAGEで杏ちゃんの歌を聴いた時のドキドキ……今も覚えてる）
+wav/voice_ms_street13_36_09.wav|2|（あの気持ちを、みんなにも届けたい！もっともっとドキドキしてほしい！）
+wav/voice_ms_street13_45_09.wav|2|え、えっと……ありがとうございました！
+wav/voice_ms_street13_58_09.wav|2|うん！
+wav/voice_ms_street13_61_09.wav|2|…………！　あ、ありがとう……！
+wav/voice_ms_street13_67_09.wav|2|うん！
+wav/voice_ms_street14_25_09.wav|2|うん！
+wav/voice_ms_street14_27_09.wav|2|みんなと杏ちゃんのおかげで、またイベントに出られて……大成功だったよ！　本当にありがとうございました！
+wav/voice_ms_street14_29_09.wav|2|……ねえ、ミクちゃん達は、どうして私達を気にしてくれるの？
+wav/voice_ms_street14_32_09.wav|2|想いが、歌に……
+wav/voice_ms_street14_59_09.wav|2|こんにちは。……あ、し、東雲くんも……
+wav/voice_ms_street14_61_09.wav|2|ひぇっ……！　な、なんでもないですっ！
+wav/voice_ms_street14_62_09.wav|2|び、びっくりした……。東雲くん、なんだかピリピリしてるけど、何かあったの？
+wav/voice_ms_street14_64_09.wav|2|あれ？　今日、青柳くんはいないんだね
+wav/voice_ms_street14_66_09.wav|2|ケンカ……
+wav/voice_ms_street14_68_09.wav|2|う、うん。やってみたいな
+wav/voice_ms_street14_70_09.wav|2|（東雲くん達、大丈夫かな……）
+wav/voice_ms_street15_04_09.wav|2|あ、杏ちゃん……！
+wav/voice_ms_street15_08_09.wav|2|やっぱりケンカしちゃったのかな。大丈夫かな……
+wav/voice_ms_street15_10_09.wav|2|……う、うん……
+wav/voice_ms_street15_11_09.wav|2|ふふ。予約してたCDは受け取れたし、あとは杏ちゃんとの待ち合わせまで……あっ！
+wav/voice_ms_street15_13_09.wav|2|あ……あの、青柳くん……
+wav/voice_ms_street15_15_09.wav|2|う、うん、久しぶり……
+wav/voice_ms_street15_17_09.wav|2|……………………
+wav/voice_ms_street15_19_09.wav|2|え、えっと……青柳くん……
+wav/voice_ms_street15_21_09.wav|2|その……青柳くん、最近イベントにも出てないし……WEEKEND GARAGEにも来てないけど、どうしたの？
+wav/voice_ms_street15_22_09.wav|2|昨日、たまたま東雲くんと同じイベントで歌ったんだけど、思いつめた顔してて……。それに、ステージでもキレがないって、杏ちゃんが……
+wav/voice_ms_street15_23_09.wav|2|…………東雲くんと、ケンカしたの……？
+wav/voice_ms_street15_27_09.wav|2|あ……
+wav/voice_ms_street15_29_09.wav|2|あ、ううん。私もさっき来たところだよ
+wav/voice_ms_street15_30_09.wav|2|……あのね、杏ちゃん。今、青柳くんと会ったの。多分だけど、青柳くんも元気なくて……
+wav/voice_ms_street15_33_09.wav|2|だって、WEEKEND GARAGEではよく会うし……
+wav/voice_ms_street15_34_09.wav|2|それに、いろいろあったけど、私達のこと、認めてくれたから……
+wav/voice_ms_street15_36_09.wav|2|え？　えっと……？
+wav/voice_ms_street15_44_09.wav|2|杏ちゃん……
+wav/voice_ms_street15_49_09.wav|2|あ……こ、こんにちは
+wav/voice_ms_street15_52_09.wav|2|杏ちゃん、本当に大丈夫？私、違う学校なのに……
+wav/voice_ms_street15_57_09.wav|2|う、うん……
+wav/voice_ms_street15_58_09.wav|2|あの……青柳くん、もう東雲くんとは一緒にやらないの？
+wav/voice_ms_street15_59_09.wav|2|最近知り会ったばっかりの私がこんなこと言うのはお節介だってわかってるけど……
+wav/voice_ms_street15_63_09.wav|2|青柳くん……
+wav/voice_ms_street16_02_09.wav|2|そんな……青柳くん、東雲くんと歌ってる時、すっごく楽しそうなのに……
+wav/voice_ms_street16_04_09.wav|2|え？
+wav/voice_ms_street16_12_09.wav|2|待って青柳くん！
+wav/voice_ms_street16_14_09.wav|2|私……一度は、みんなみたいに真剣になれてないからもう、イベントに出ちゃダメなのかなって思ったんだけど……
+wav/voice_ms_street16_15_09.wav|2|でも、誰に何を言われても、私自身がやりたいって思ったの！もう１回、杏ちゃんと一緒に歌いたいって思って……！
+wav/voice_ms_street16_16_09.wav|2|青柳くんは……本当はどうしたいの……？
+wav/voice_ms_street16_18_09.wav|2|あ……
+wav/voice_ms_street16_19_09.wav|2|……私、やっぱり、余計なことしちゃった……
+wav/voice_ms_street16_21_09.wav|2|え？
+wav/voice_ms_street16_23_09.wav|2|……誰かさん？
+wav/voice_ms_street16_26_09.wav|2|………………
+wav/voice_ms_street16_27_09.wav|2|……もう少しだけ、がんばりたい
+wav/voice_ms_street16_30_09.wav|2|うん！
+wav/voice_ms_street16_63_09.wav|2|あっ、そうだよね。それじゃ、私は……
+wav/voice_ms_street17_48_09.wav|2|で、でも最後の挨拶ってことは、青柳くん本当に……
+wav/voice_ms_street17_50_09.wav|2|え？
+wav/voice_ms_street17_53_09.wav|2|青柳くん……
+wav/voice_ms_street17_55_09.wav|2|……うん
+wav/voice_ms_street18_22_09.wav|2|…………
+wav/voice_ms_street19_56_09.wav|2|あ、杏ちゃん！
+wav/voice_ms_street19_60_09.wav|2|うん……！青柳くん、東雲くんとまたふたりで歌えるんだね……！
+wav/voice_ms_street19_68_09.wav|2|あれ？　『Untitled』が光ってる……
+wav/voice_ms_street19_71_09.wav|2|きゃっ……！！
+wav/voice_ms_street20_02_09.wav|2|ミクちゃん……！
+wav/voice_ms_street20_06_09.wav|2|じゃあ私達の本当の想いって……やっぱり『最高のイベントをやりたい』ってことだったんだね
+wav/voice_ms_street20_12_09.wav|2|ま、まぁまぁ、ふたりとも……
+wav/voice_ms_street20_14_09.wav|2|あ、青柳くん……？
+wav/voice_ms_street20_18_09.wav|2|じゃあ、ミクちゃん！
+wav/voice_ms_street20_20_09.wav|2|……ハァ、ハァ……。すごい……ドキドキした……！
+wav/voice_ms_street20_24_09.wav|2|今の曲……初めてやったのになんだか最初から知ってたみたいに歌えた……？
+wav/voice_ms_street20_26_09.wav|2|……最初から……
+wav/voice_ms_street20_30_09.wav|2|これが……私達の……
+wav/voice_ms_street20_36_09.wav|2|こんにちは！あ、青柳くん、東雲くん！　３人で話してたの？
+wav/voice_ms_street20_41_09.wav|2|なあに？
+wav/voice_ms_street20_43_09.wav|2|え？
+wav/voice_ms_street20_48_09.wav|2|す……すごくいいと思う！私も、東雲くんと青柳くんと一緒にやりたい！
+wav/voice_ms_street20_60_09.wav|2|『SQUAD』はどうかな？
+wav/voice_ms_street20_61_09.wav|2|確か、団とか小隊って意味と、それから……
+wav/voice_ms_street20_65_09.wav|2|た、頼れるなんて……私いつも頼ってばっかりだよ
+wav/voice_ms_street20_66_09.wav|2|でも、私もみんなに頼ってもらえるようもっともっとがんばるね！！
+wav/voice_ms_street20_68_09.wav|2|わっ！　あ、杏ちゃん苦しいよ～！！
+wav/voice_unit_piapro12_02_09.wav|2|こ、こんにちは……！
+wav/voice_unit_piapro12_06_09.wav|2|普段、練習で使ってる公園も人が多かったから、ここのカフェのステージを使わせてもらえないかなって思ったんですけど……
+wav/voice_unit_piapro12_08_09.wav|2|メイコさん、ありがとうございます……！
+wav/voice_unit_piapro12_17_09.wav|2|あ、あの……。ふたりとも、落ち着いて……
+wav/voice_unit_piapro12_20_09.wav|2|えっ、私が？でも、ふたりの意見は両方納得できるから、その……
+wav/voice_unit_piapro12_36_09.wav|2|うーん、そうだな……
+wav/voice_selfep_street_01_09.wav|2|え、えっと……Vivid BAD SQUAD（ビビッドバッドスクワッド）の小豆沢こはねです
+wav/voice_selfep_street_02_09.wav|2|宮益坂女子学園の１年生で、えっと、飼育委員を……
+wav/voice_selfep_street_03_09.wav|2|……え、そんなの言わなくていい？
+wav/voice_selfep_street_04_09.wav|2|あ、そうだよね。音楽と関係あることを話さないとダメだよね
+wav/voice_selfep_street_05_09.wav|2|じゃあえっと……
+wav/voice_selfep_street_06_09.wav|2|あ、私がライブハウスやビビッドストリートで歌うようになったきっかけについて話しますね
+wav/voice_selfep_street_07_09.wav|2|お母さんから頼まれたお使いの帰り道にどこかから、歌が聴こえてきたんです
+wav/voice_selfep_street_08_09.wav|2|その歌にはラップも入っていて、それに学校で習う音楽では聴いたことがないくらい激しくって、歌詞もちょっと乱暴な言葉だったり……
+wav/voice_selfep_street_09_09.wav|2|びっくりもしたし、ちょっと怖かったけど……
+wav/voice_selfep_street_10_09.wav|2|でも、なぜか聴き入ってしまっていました
+wav/voice_selfep_street_11_09.wav|2|えっと、カルチャーショックっていうのを受けたんだと思います
+wav/voice_selfep_street_12_09.wav|2|家に帰ってすぐに、その曲を動画サイトで探しました。そうしたら、いろいろな人がその歌を歌っていて……
+wav/voice_selfep_street_13_09.wav|2|聴けば聴くほど、その歌も、激しさも、ラップもノリも全部をどんどん好きになっていきました
+wav/voice_selfep_street_14_09.wav|2|それから、ちょっと自分でも歌ってみたりして……
+wav/voice_selfep_street_15_09.wav|2|でも、本当に歌い始めたばかりだから、他のみんなみたいにライブハウスで歌った経験も少ないです
+wav/voice_selfep_street_16_09.wav|2|それに……
+wav/voice_selfep_street_17_09.wav|2|私、自分に全然自信がなくて、何かを積極的にやれたこともなくて……
+wav/voice_selfep_street_18_09.wav|2|でも、こんな私とでも一緒に歌いたいって杏ちゃんが言ってくれたんです
+wav/voice_selfep_street_19_09.wav|2|だから私も、ライブハウスやビビッドストリートで歌い始めることができました
+wav/voice_selfep_street_20_09.wav|2|それと、杏ちゃんは私に、すごい夢も教えてくれたんです
+wav/voice_selfep_street_21_09.wav|2|初めて聴いた時、びっくりしちゃったけど、すごくかっこいいなって思いました
+wav/voice_selfep_street_22_09.wav|2|私も、杏ちゃんみたいになれたらなって、心から思います
+wav/voice_selfep_street_23_09.wav|2|歌い始めてから、大変なこともあったけど……
+wav/voice_selfep_street_24_09.wav|2|この街やビビッドストリートで杏ちゃん達と一緒にこれからも歌い続けていければと思っています
+wav/voice_selfep_street_25_09.wav|2|ご清聴ありがとうございました
+wav/voice_selfep_street_26_09.wav|2|……えっと、ど、どうだった、かな？
+wav/voice_selfep_street_27_09.wav|2|……感動した？
+wav/voice_selfep_street_28_09.wav|2|えへへ、ありがとう。杏ちゃん
+wav/voice_selfep_street_29_09.wav|2|……あれ？東雲くん、なんでそんなに笑って……
+wav/voice_selfep_street_30_09.wav|2|……作文の発表会みたいだった？
+wav/voice_selfep_street_31_09.wav|2|あはは……確かにそうだったかも……えっ、あ、杏ちゃん！？
+wav/voice_selfep_street_32_09.wav|2|ダ、ダメだよ、蹴ったりしちゃ！
+wav/voice_selfep_street_33_09.wav|2|青柳くん！　見てないで止めないとー！
+wav/voice_ev_shuffle_20_08_68_12.wav|3|……彰人、食べたいのか？
+wav/voice_ev_shuffle_20_08_72_12.wav|3|ありがとうございます
+wav/voice_ev_shuffle_20_08_77_12.wav|3|ん？　猫が近寄ってきたが……
+wav/voice_ev_shuffle_20_08_79_12.wav|3|何やらこちらを見上げているが……。エサがほしいんだろうか
+wav/voice_ev_shuffle_20_08_84_12.wav|3|種類によっては動物も音楽を理解するという話を聞いたことはあるが……猫もそうなのだろうか
+wav/voice_ev_shuffle_20_08_87_12.wav|3|そうだな。猫に見守られて歌うというのも、楽しそうだ
+wav/voice_ev_shuffle_20_08_108_12.wav|3|ああ。リズムもしっかりとれていた。この調子でもう１回やろう
+wav/voice_ev_street_09_01_06_12.wav|3|ありがとうございます。……ふぅ、レモンの酸味が体に染みわたる……
+wav/voice_ev_street_09_01_16_12.wav|3|ともかく、みんな相当気合いが入っていたな。おかげでとてもいい練習になった
+wav/voice_ev_street_09_01_19_12.wav|3|はい。あのイベントで、少しだけRAD WEEKENDの空気に近づけた気がします
+wav/voice_ev_street_09_01_20_12.wav|3|これも彰人がヒントを出してくれたおかげだな
+wav/voice_ev_street_09_01_37_12.wav|3|可能性は低いかもしれないが……。しかし、試してみる価値はあると思う
+wav/voice_ev_street_09_01_39_12.wav|3|俺も、あの映像を何度か見ているが……。いつも歌唱技術やパフォーマンスに圧倒されてしまっていたからな
+wav/voice_ev_street_09_01_40_12.wav|3|リンの言うように、意識して『RAD WEEKENDは普通のイベントと何が違うのか』を確認することで、何か新しい発見があるかもしれない
+wav/voice_ev_street_09_01_67_12.wav|3|（この人の、観客を惹きつける力の正体は……歌唱力なのか？いや……だが、それ以外にも何か関係しているような気もする）
+wav/voice_ev_street_09_01_68_12.wav|3|（彼女を中心に、熱狂と……何か、他の感情が渦を巻いているような……。これは、もしかすると——）
+wav/voice_ev_street_09_01_86_12.wav|3|ああ。……なんとなくだがな
+wav/voice_ev_street_09_01_91_12.wav|3|……そういうことなんだろうか……
+wav/voice_ev_street_09_01_93_12.wav|3|ただ、それだけであそこまでのイベントができたかと言うと……。まだわからないな
+wav/voice_ev_street_09_01_99_12.wav|3|……そうだな
+wav/voice_ev_street_09_01_100_12.wav|3|この前のイベントで、俺達全員でどうにか作り出したあの空気を、凪さんという人はたったひとりで——しかもイベントの一発目の曲で、生み出していたようにも見えた
+wav/voice_ev_street_09_01_110_12.wav|3|そうだな。俺からも頼みたい
+wav/voice_ev_street_09_01_111_12.wav|3|凪さんという人がRAD WEEKENDの中心人物だとしたら——知ることには、とても大きな意味があると思う
+wav/voice_ev_street_09_08_05_12.wav|3|そうだな。話してもらったおかげで、だいぶ人物像を掴めた気がする
+wav/voice_ev_street_09_08_23_12.wav|3|あ……
+wav/voice_ev_street_09_08_27_12.wav|3|遠野さんは、大河さんとの勝負に負けた時、言われたらしいんだ
+wav/voice_ev_street_09_08_28_12.wav|3|『街を見ろ』——と
+wav/voice_ev_street_09_08_35_12.wav|3|なるほど……。少なくとも大河さんは、RAD WEEKENDを超えるためには、街を見ることが必要不可欠だと考えているようだな
+wav/voice_ev_street_09_08_47_12.wav|3|そうですね。外部の人もいましたが、半数以上はビビッドストリートの住人か、ここで活動しているミュージシャンでした
+wav/voice_ev_street_09_08_51_12.wav|3|……そうだな。これが何を意味するのかは……もう少し考えていくことにしよう
+wav/voice_ev_street_09_08_54_12.wav|3|ああ。さすがに急いで帰らないと怒られてしまいそうだな
+wav/voice_ev_street_09_08_63_12.wav|3|そうだな。俺達も解散するとするか
+wav/voice_ev_shuffle_22_01_70_12.wav|3|……よし、いい位置だ。ここでアームを下ろせば……
+wav/voice_ev_shuffle_22_01_71_12.wav|3|……取れた
+wav/voice_ev_shuffle_22_01_72_12.wav|3|……そろそろ両手では抱えきれなくなってきたな。もうすぐ彰人も着く頃だろうし、このくらいにしておくか
+wav/voice_ev_shuffle_22_01_73_12.wav|3|プレイ回数はあと２回か……。奥のものを取るのは難しそうだが手前のぬいぐるみなら、なんとかなりそうだ
+wav/voice_ev_shuffle_22_01_74_12.wav|3|よし、もう１回——
+wav/voice_ev_shuffle_22_01_77_12.wav|3|ああ、新しい台がいくつか出ていたからな。待っているあいだに挑戦していた
+wav/voice_ev_shuffle_22_01_80_12.wav|3|すまない、まだプレイ回数が残っているから少しだけ待っていてもらえないだろうか
+wav/voice_ev_shuffle_22_01_82_12.wav|3|——彰人、待たせてしまってすまない
+wav/voice_ev_shuffle_22_01_84_12.wav|3|ああ、アームから落ちそうになってしまったんだが、うまくヒモが引っかかってくれた
+wav/voice_ev_shuffle_22_01_87_12.wav|3|あ……どうも、ありがとうございます
+wav/voice_ev_shuffle_22_01_88_12.wav|3|……ん？『ゲームセンター、リニューアルオープン！ワクワクゲーム大会開催のお知らせ』……
+wav/voice_ev_shuffle_22_01_90_12.wav|3|…………
+wav/voice_ev_shuffle_22_01_92_12.wav|3|ああ、少しな。まだプレイしていないゲームがあるならやってみたいんだ
+wav/voice_ev_shuffle_22_01_93_12.wav|3|……しかし、このゲーム大会というのはどういう——
+wav/voice_ev_shuffle_22_01_94_12.wav|3|……！
+wav/voice_ev_shuffle_22_01_95_12.wav|3|……これは……！
+wav/voice_ev_shuffle_22_03_07_12.wav|3|……草薙か？
+wav/voice_ev_shuffle_22_03_12_12.wav|3|はじめまして、青柳冬弥です。司先輩には小さい頃からお世話になっています
+wav/voice_ev_shuffle_22_03_17_12.wav|3|だが、ここで会うとは思わなかったな。草薙もゲームが好きなのか？
+wav/voice_ev_shuffle_22_03_19_12.wav|3|そうだったのか。奇遇だな、俺達もあのチケットを狙っているんだ
+wav/voice_ev_shuffle_22_03_21_12.wav|3|ああ。そのイベントのメインステージでライブがあってな。そこに、いつもチケットが入手困難の有名なチームが出るというから、興味があったんだ
+wav/voice_ev_shuffle_22_03_24_12.wav|3|だが、そうなると——俺達は優勝争いをすることになるな
+wav/voice_ev_shuffle_22_03_26_12.wav|3|ああ。お互い、全力を尽くそう
+wav/voice_ev_shuffle_22_03_31_12.wav|3|なるほど。とにかくゲームに勝って、ポイントを取ればいいんだな
+wav/voice_ev_shuffle_22_03_43_12.wav|3|最近のプリントシールには、対戦する機能もついているんだな……
+wav/voice_ev_shuffle_22_03_48_12.wav|3|ひとまず概要はわかりました。しかし、どうやって勝敗をつけるんですか？
+wav/voice_ev_shuffle_22_03_54_12.wav|3|ああ……俺は、プリントシールを撮った経験があまりないんだ。勝てるだろうか……
+wav/voice_ev_shuffle_22_03_57_12.wav|3|そうか……。やはり１回戦を勝つのは難しそうだな
+wav/voice_ev_shuffle_22_03_92_12.wav|3|いや、彰人はすごいな。写真を撮る時のポーズもそうだが、スタンプの選択や飾りかたにもセンスがあった
+wav/voice_ev_shuffle_22_03_93_12.wav|3|俺は自分の名前を書くくらいしかできなかったからな。きっと俺だけでは、学生証のような出来にしかならなかっただろう
+wav/voice_ev_shuffle_22_03_96_12.wav|3|なぜだ？自慢していいクオリティだと思うが……
+wav/voice_ev_shuffle_22_03_97_12.wav|3|——ん？
+wav/voice_ev_shuffle_22_03_99_12.wav|3|……いや。今、かけ声のようなものが聞こえた気がしたんだが
+wav/voice_ev_shuffle_22_03_102_12.wav|3|大丈夫だ。少なくとも、俺が考えられる限り最もいい作品になっていると思う。これで提出しよう
+wav/voice_ev_shuffle_22_04_04_12.wav|3|彰人のおかげでいい仕上がりになったと思う。きっと大丈夫だ
+wav/voice_ev_shuffle_22_04_06_12.wav|3|撮ったシールの解説か……。初めてやるが、うまくできるだろうか
+wav/voice_ev_shuffle_22_04_15_12.wav|3|はい。俺達が撮ったプリントシールはこれです。今、流行っているものを参考にしてみました
+wav/voice_ev_shuffle_22_04_19_12.wav|3|……彰人、心配ない。きっと勝てる。絵名さんも暁山もやっていたという流行りのポーズなんだろう？
+wav/voice_ev_shuffle_22_04_21_12.wav|3|だが、ふたりには好印象のようだ。もしかしたら上位を狙えるんじゃないだろうか？
+wav/voice_ev_shuffle_22_04_27_12.wav|3|まだ気は抜けないが、ひとまず繋いだな
+wav/voice_ev_shuffle_22_04_28_12.wav|3|しかし、これで草薙達と１対１か……
+wav/voice_ev_shuffle_22_04_34_12.wav|3|……頼む
+wav/voice_ev_shuffle_22_04_40_12.wav|3|ああ、次で巻き返そう
+wav/voice_ev_shuffle_22_04_41_12.wav|3|……それに、プリントシールの楽しさもわかってよかった。今度は別のフレームやスタンプも使ってみよう
+wav/voice_ev_shuffle_22_04_43_12.wav|3|ん……？
+wav/voice_ev_shuffle_22_04_47_12.wav|3|……っ！！彰人、ぷよぷよだ！
+wav/voice_ev_shuffle_22_04_49_12.wav|3|ああ、普段からやっているし、自信もある。次で１勝取り返したいところだ
+wav/voice_ev_shuffle_22_04_53_12.wav|3|ふむ……。今度はひとりずつ戦うのか
+wav/voice_ev_shuffle_22_05_11_12.wav|3|（ゲーム大会という、普段とは違うイベントだから多少緊張するかと思ったが——さすがだ。いつもの彰人だな）
+wav/voice_ev_shuffle_22_05_25_12.wav|3|彰人、連鎖はもっと重ねたほうがいい。２連鎖だと、あまり相手におじゃまぷよを送れない
+wav/voice_ev_shuffle_22_05_28_12.wav|3|練習？
+wav/voice_ev_shuffle_22_05_34_12.wav|3|っ……まずい
+wav/voice_ev_shuffle_22_05_35_12.wav|3|彰人、こちらも連鎖を組んで相殺しなくては
+wav/voice_ev_shuffle_22_05_39_12.wav|3|急げ、とにかく早く消さないとまずいことになる
+wav/voice_ev_shuffle_22_05_41_12.wav|3|彰人、落ち着け。高速でぷよを回転させても意味がない
+wav/voice_ev_shuffle_22_05_45_12.wav|3|いや、大丈夫だ。俺も鳳さんが、あそこまでうまいとは思っていなかった
+wav/voice_ev_shuffle_22_05_46_12.wav|3|でも、次で取り返す。信じて待っていてくれ
+wav/voice_ev_shuffle_22_05_64_12.wav|3|……ふう
+wav/voice_ev_shuffle_22_05_66_12.wav|3|——今は待つことしかできないからな
+wav/voice_ev_shuffle_22_05_72_12.wav|3|……勝負あったな
+wav/voice_ev_shuffle_22_05_74_12.wav|3|……よかった。打ち返しが早かったから少し焦ったが、なんとかなったみたいだな
+wav/voice_ev_shuffle_22_05_78_12.wav|3|よし……！
+wav/voice_ev_shuffle_22_06_05_12.wav|3|プロというわけではないが……こういう落ち物ゲームは、駅前のゲームセンターでよくやっているな
+wav/voice_ev_shuffle_22_06_11_12.wav|3|草薙も普段からゲームをやるのか。なるほど、強いわけだ
+wav/voice_ev_shuffle_22_06_13_12.wav|3|いや、あの連鎖に対してあそこまで粘れるプレイヤーはそうはいない
+wav/voice_ev_shuffle_22_06_17_12.wav|3|ああ、わかった。時間があう時に、また手合わせさせてくれ
+wav/voice_ev_shuffle_22_06_21_12.wav|3|向こうの対戦で、何か揉めているみたいだな
+wav/voice_ev_shuffle_22_06_24_12.wav|3|あまり気持ちのいい対戦ではなかったみたいだな
+wav/voice_ev_shuffle_22_06_29_12.wav|3|一応、気をつけておく。勘違いだったらいいんだが……
+wav/voice_ev_shuffle_22_06_38_12.wav|3|——大丈夫だ。それよりも落ち着いていこう
+wav/voice_ev_shuffle_22_06_45_12.wav|3|さっきより遥かに成長している。彰人は、すぐに俺よりうまくなりそうだな
+wav/voice_ev_shuffle_22_06_48_12.wav|3|……まずいな。今も結構積みあがってるし、ここでおじゃまぷよがきたら——
+wav/voice_ev_shuffle_22_06_53_12.wav|3|いや、健闘してくれてありがとう。あとは俺がなんとかしよう
+wav/voice_ev_shuffle_22_06_55_12.wav|3|——ああ、わかっている
+wav/voice_ev_shuffle_22_06_65_12.wav|3|……！
+wav/voice_ev_shuffle_22_06_69_12.wav|3|彰人、大丈夫だ。……もう終わる
+wav/voice_ev_shuffle_22_06_73_12.wav|3|いや、俺は勝ったし大丈夫です。このまま大会を続行してください
+wav/voice_ev_shuffle_22_06_75_12.wav|3|はい。せっかくの大会を、こんなことで台無しにするわけにはいきませんから
+wav/voice_ev_shuffle_22_06_76_12.wav|3|だが——
+wav/voice_ev_shuffle_22_06_77_12.wav|3|次はないと思ってほしい
+wav/voice_ev_shuffle_22_06_85_12.wav|3|スペシャルルール？
+wav/voice_ev_shuffle_22_07_21_12.wav|3|次はフィドバか……
+wav/voice_ev_shuffle_22_07_23_12.wav|3|そうだな。どこまでいけるかはわからないが、俺達なりにやってみよう
+wav/voice_ev_shuffle_22_07_36_12.wav|3|ああ、俺も大丈夫だ。それと、鎮痛剤や回復薬も拾っておいた。これだけあれば、いつ戦闘になっても——
+wav/voice_ev_shuffle_22_07_37_12.wav|3|……っ！彰人、後ろだ！
+wav/voice_ev_shuffle_22_07_40_12.wav|3|……うまいな彰人。ヘッドショットと出ていたぞ
+wav/voice_ev_shuffle_22_07_43_12.wav|3|ああ、残りのひとりをしとめれば、１チームを脱落させられる
+wav/voice_ev_shuffle_22_07_45_12.wav|3|わかった。背後は見ておくが、気をつけてくれ
+wav/voice_ev_shuffle_22_07_84_12.wav|3|ああ。見知った顔が撃たれそうになっているのは気分がよくないからな
+wav/voice_ev_shuffle_22_07_86_12.wav|3|……そうだな、わかってはいるんだが。俺はこのゲームが苦手なのかもしれない
+wav/voice_ev_shuffle_22_07_88_12.wav|3|……なんだ？アイテムの『キノコ』を使っている？
+wav/voice_ev_shuffle_22_07_101_12.wav|3|つまり、そのバグ技は本来のプレイでは禁止されているもの、ということか？
+wav/voice_ev_shuffle_22_07_104_12.wav|3|俺もさすがに、これ以上見過ごすわけにはいかない。草薙、提案があるんだが——
+wav/voice_ev_shuffle_22_07_107_12.wav|3|すごいな、草薙。あとほんの数ミリでヘッドショットだった
+wav/voice_ev_shuffle_22_07_109_12.wav|3|……ああ。しかし、やはり撃つのは少し抵抗があるな……
+wav/voice_ev_shuffle_22_07_110_12.wav|3|——そうだ
+wav/voice_ev_shuffle_22_07_116_12.wav|3|っ！
+wav/voice_ev_shuffle_22_07_123_12.wav|3|草薙、ここだ！俺の上に馬乗りになっている！
+wav/voice_ev_shuffle_22_07_126_12.wav|3|やったな、草薙。見事な一撃だった
+wav/voice_ev_shuffle_22_07_129_12.wav|3|ああ、あとは——俺達だけだな
+wav/voice_ev_shuffle_22_07_130_12.wav|3|……短い共闘だったが、楽しかった。それに、草薙の強さも間近で見て感じている。だから……
+wav/voice_ev_shuffle_22_07_131_12.wav|3|ここからは、手加減はしない
+wav/voice_ev_shuffle_22_08_07_12.wav|3|……俺は、ぷよぷよにはそこそこ自信があるが、最後のゲームはあまり触れていないジャンルだし、全然うまく立ち回れてもいなかった
+wav/voice_ev_shuffle_22_08_08_12.wav|3|それでも……最後のゲームは楽しかった。草薙との最後の一騎打ちもそうだが、その前……あなた達とやっている時も
+wav/voice_ev_shuffle_22_08_19_12.wav|3|ああ、だが負けてしまったのなら仕方ない。あのチームのライブはあきらめよう
+wav/voice_ev_shuffle_22_08_20_12.wav|3|いつか見るチャンスは、あるだろうからな
+wav/voice_ev_shuffle_22_08_24_12.wav|3|それは優勝した草薙達のものだ。気にせず行ってきてくれ
+wav/voice_ev_shuffle_22_08_26_12.wav|3|えっ？
+wav/voice_ev_shuffle_22_08_31_12.wav|3|本当にありがとうございます。彰人と一緒に、大切に使わせてもらいます
+wav/voice_ev_shuffle_22_08_41_12.wav|3|ああ、もちろんだ。俺も草薙と対戦できて楽しかったから、またやりたい
+wav/voice_ev_shuffle_22_08_44_12.wav|3|わかった。彰人もまた一緒にやろう
+wav/voice_ms_street4_04_12.wav|3|ああ、彰人も考えていたか。たしかに次は聴きなれたオーディエンスが多い分、完成度の高い曲を入れたほうがいい
+wav/voice_ms_street4_06_12.wav|3|……謙さんの『RAD WEEKEND』を超えるにはもっと場数を踏まなくてはならないだろう
+wav/voice_ms_street4_09_12.wav|3|………………
+wav/voice_ms_street4_53_12.wav|3|……敬語は使わなくていい
+wav/voice_ms_street4_62_12.wav|3|さっき？
+wav/voice_ms_street5_05_12.wav|3|…………
+wav/voice_ms_street5_15_12.wav|3|………………
+wav/voice_ms_street5_16_12.wav|3|……どういうつもりだ、彰人。なぜ急に、あのふたりを誘った
+wav/voice_ms_street5_18_12.wav|3|……？
+wav/voice_ms_street5_22_12.wav|3|…………
+wav/voice_ms_street9_16_12.wav|3|…………
+wav/voice_ms_street5_30_12.wav|3|……彰人。あいつらが半端な気持ちでやっていると決めつけるのは、まだ早いんじゃないか
+wav/voice_ms_street5_36_12.wav|3|…………
+wav/voice_ms_street7_33_12.wav|3|あれは……白石と小豆沢か？
+wav/voice_ms_street7_44_12.wav|3|……あんな頃があったな。オレ達にも
+wav/voice_ms_street7_46_12.wav|3|…………半端な覚悟、か
+wav/voice_ms_street7_48_12.wav|3|ああ、問題ない
+wav/voice_ms_street7_50_12.wav|3|……彰人、わかっていると思うが、２曲目の入りは走りすぎないよう、注意しろ
+wav/voice_ms_street7_54_12.wav|3|ああ……
+wav/voice_ms_street7_56_12.wav|3|……彰人、俺は……
+wav/voice_ms_street7_57_12.wav|3|………………
+wav/voice_ms_street8_02_12.wav|3|白石の？
+wav/voice_ms_street8_03_12.wav|3|いや、そのイベントは……
+wav/voice_ms_street8_06_12.wav|3|…………
+wav/voice_ms_street8_07_12.wav|3|“応援”……？
+wav/voice_ms_street8_09_12.wav|3|…………
+wav/voice_ms_street8_21_12.wav|3|…………ああ。たしか……小豆沢、だったか
+wav/voice_ms_street8_23_12.wav|3|いや。練習をしに、近くの公園に行くところだ。あと、前も言ったが、敬語は使わなくていい
+wav/voice_ms_street8_25_12.wav|3|ああ。これは俺が個人的にやっていることだ
+wav/voice_ms_street8_26_12.wav|3|俺はまだ、彰人のように観客の心を掴む歌いかたを身につけられていないからな……
+wav/voice_ms_street8_28_12.wav|3|…………小豆沢、少し聞いていいか？
+wav/voice_ms_street8_30_12.wav|3|小豆沢は『RAD WEEKEND』を超えるイベントを、本気でやろうと思っているのか？
+wav/voice_ms_street8_32_12.wav|3|教えてほしい
+wav/voice_ms_street8_35_12.wav|3|…………
+wav/voice_ms_street8_40_12.wav|3|…………そうか
+wav/voice_ms_street8_42_12.wav|3|……？
+wav/voice_ms_street8_45_12.wav|3|…………ああ
+wav/voice_ms_street8_58_12.wav|3|その前に、少しいいか、彰人
+wav/voice_ms_street9_01_12.wav|3|彰人、俺は、あのふたりも『あのイベント』を超えたいと、本気で思っているんじゃないかと思う
+wav/voice_ms_street9_03_12.wav|3|歌を聴いて判断しないか。……ふたりを判断するのは、それからでも遅くない
+wav/voice_ms_street9_07_12.wav|3|……ああ。ありがとう、彰人
+wav/voice_ms_street9_27_12.wav|3|これは……！？
+wav/voice_ms_street10_05_12.wav|3|待ってくれ白石。彰人はこんな真似は――
+wav/voice_ms_street10_07_12.wav|3|彰人……！？
+wav/voice_ms_street10_23_12.wav|3|おい、彰人！
+wav/voice_ms_street10_28_12.wav|3|彰人、もういいだろう！
+wav/voice_ms_street10_31_12.wav|3|彰人、なぜ白石達に言わない。音を止めたのは……
+wav/voice_ms_street10_33_12.wav|3|だが……本当にこれでいいのか？
+wav/voice_ms_street10_36_12.wav|3|…………
+wav/voice_ms_street12_22_12.wav|3|！！　小豆沢……？　その髪は……
+wav/voice_ms_street12_39_12.wav|3|……来週の土曜だ
+wav/voice_ms_street12_40_12.wav|3|次はMossy stoneで歌う。枠は、まだ空いていたはずだ
+wav/voice_ms_street12_43_12.wav|3|小豆沢、白石
+wav/voice_ms_street12_45_12.wav|3|ふたりは、『RAD WEEKEND』を超えるイベントを、本気でやろうと思っているのか？
+wav/voice_ms_street12_47_12.wav|3|……フッ、そうか
+wav/voice_ms_street12_48_12.wav|3|楽しみにしている
+wav/voice_ms_street12_60_12.wav|3|…………
+wav/voice_ms_street12_62_12.wav|3|……いや、なんでもない
+wav/voice_ms_street12_64_12.wav|3|…………。彰人、俺は……
+wav/voice_ms_street13_01_12.wav|3|……ただいま
+wav/voice_ms_street13_01a_12.wav|3|…………
+wav/voice_ms_street13_01b_12.wav|3|……はぁ
+wav/voice_ms_street13_02_12.wav|3|……父さん
+wav/voice_ms_street13_03_12.wav|3|…………
+wav/voice_ms_street13_04_12.wav|3|……遊んでいるつもりはない。……それに、父さんに何を言われても、俺はもう二度とクラシックには戻らない
+wav/voice_ms_street13_05_12.wav|3|出て行ってくれ
+wav/voice_ms_street13_06_12.wav|3|！！　父さん、彰人は……！
+wav/voice_ms_street13_07_12.wav|3|くっ……！
+wav/voice_ms_street13_08_12.wav|3|（彰人は……昔から本気だ。『RAD WEEKEND』を見てから……それを超えるって夢に純粋に向き合ってる……）
+wav/voice_ms_street13_09_12.wav|3|（……クラシックじゃなければなんでもよかった俺とは違う……）
+wav/voice_ms_street13_10_12.wav|3|……彰人……本当に中途半端なのは俺だ。俺は……お前の隣に居るべきじゃ……
+wav/voice_ms_street13_16_12.wav|3|……まぶしいな
+wav/voice_ms_street13_18_12.wav|3|……いや、なんでもない。いこう、彰人
+wav/voice_ms_street13_40_12.wav|3|やっぱり、あのふたりはお前と同じだったな
+wav/voice_ms_street13_42_12.wav|3|もう、認めてもいいんじゃないか。あのふたりのことを
+wav/voice_ms_street13_48_12.wav|3|………………
+wav/voice_ms_street13_49_12.wav|3|（……彰人も、白石も、そして小豆沢も、夢に命をかけて、本気で向き合っている）
+wav/voice_ms_street13_50_12.wav|3|（けど俺は……そうじゃない。俺だけは、違う……）
+wav/voice_ms_street13_51_12.wav|3|……ここまでだな
+wav/voice_ms_street13_70_12.wav|3|……………………
+wav/voice_ms_street13_72_12.wav|3|……彰人、俺は……
+wav/voice_ms_street14_03_12.wav|3|冗談じゃない
+wav/voice_ms_street14_05_12.wav|3|…………
+wav/voice_ms_street14_06_12.wav|3|これは、俺の意志だ。俺達の音楽には、なんの意味もない。ただの子供の遊びだ
+wav/voice_ms_street14_08_12.wav|3|冗談を言えるほど、俺は器用じゃないんだろう？
+wav/voice_ms_street14_12_12.wav|3|……離せ
+wav/voice_ms_street14_15_12.wav|3|お前もそろそろ大人になったらどうだ。たかだかこの街でだけ有名な、小さなイベントなんて追いかけていないでな
+wav/voice_ms_street14_17_12.wav|3|…………っ！
+wav/voice_ms_street14_20_12.wav|3|……………………
+wav/voice_ms_street14_43_12.wav|3|……だったらなんだ
+wav/voice_ms_street14_45_12.wav|3|……気にするほどのものじゃないだろう
+wav/voice_ms_street14_47_12.wav|3|……長くは、やっている
+wav/voice_ms_street14_49_12.wav|3|そんな大したものでもない。ただ……
+wav/voice_ms_street14_50_12.wav|3|こうして歌っているあいだは、俺でいられる
+wav/voice_ms_street14_54_12.wav|3|俺達、BAD DOGSという名前で活動します
+wav/voice_ms_street14_56_12.wav|3|もったいぶることでもないだろう
+wav/voice_ms_street15_12_12.wav|3|……………………
+wav/voice_ms_street15_14_12.wav|3|……ああ。小豆沢か。久しぶりだな
+wav/voice_ms_street15_16_12.wav|3|ああ…………
+wav/voice_ms_street15_18_12.wav|3|……………………
+wav/voice_ms_street15_20_12.wav|3|……なんだ
+wav/voice_ms_street15_24_12.wav|3|……………………
+wav/voice_ms_street15_25_12.wav|3|ケンカしたつもりはない。……俺は、な
+wav/voice_ms_street15_26_12.wav|3|……むしろもっと早くこうするべきだった
+wav/voice_ms_street15_46_12.wav|3|……先輩、お疲れさまでした
+wav/voice_ms_street15_47_12.wav|3|…………？
+wav/voice_ms_street15_50_12.wav|3|小豆沢？　なぜここに……
+wav/voice_ms_street15_54_12.wav|3|白石……お前、風紀委員じゃなかったのか
+wav/voice_ms_street15_60_12.wav|3|……なぜ、そんなに気にかける。俺達はお前に……
+wav/voice_ms_street15_64_12.wav|3|……………………
+wav/voice_ms_street16_01_12.wav|3|……俺は彰人ともう一度歌う気はない。そのことに、特に理由は……ない
+wav/voice_ms_street16_03_12.wav|3|……楽しそう？
+wav/voice_ms_street16_05_12.wav|3|…………そうなのか。楽しそう、なのか、俺は
+wav/voice_ms_street16_09_12.wav|3|………………
+wav/voice_ms_street16_10_12.wav|3|……悪いが、用事がある
+wav/voice_ms_street16_13_12.wav|3|………………
+wav/voice_ms_street16_17_12.wav|3|……………………
+wav/voice_ms_street16_65_12.wav|3|……いえ、結構です
+wav/voice_ms_street16_66_12.wav|3|今日は……謙さんに、最後の挨拶をしに来ました
+wav/voice_ms_street17_45_12.wav|3|あ。謙さん、今日は……
+wav/voice_ms_street17_46_12.wav|3|……ありがとうございます
+wav/voice_ms_street17_49_12.wav|3|……いてもらっていい
+wav/voice_ms_street17_51_12.wav|3|俺が決断できたのは、小豆沢と白石のおかげでもある
+wav/voice_ms_street17_52_12.wav|3|それに、小豆沢……お前に心配かけたままだというのも、気持ちが悪いしな
+wav/voice_ms_street17_54_12.wav|3|だが、彰人にだけは言わないでくれ。……俺は、彰人に失望されたくない
+wav/voice_ms_street17_56_12.wav|3|謙さん、彰人から聞いたかもしれませんが、俺はBAD DOGSとして歌うのを、やめることにしました
+wav/voice_ms_street17_57_12.wav|3|いや……俺の音楽は、BAD DOGSが全てだった……。だから……ここに来るのも今日で最後になります
+wav/voice_ms_street17_58_12.wav|3|……すみません
+wav/voice_ms_street17_59_12.wav|3|……謙さん。彰人のことを、よろしくお願いします
+wav/voice_ms_street17_60_12.wav|3|彰人は、本気で謙さんを……『RAD WEEKEND』を越えようと思っています。茨の道だし、敵も多い。だから……
+wav/voice_ms_street17_61_12.wav|3|俺が言うことじゃないっていうのは、わかっているんですが……
+wav/voice_ms_street17_62_12.wav|3|……ありがとうございます
+wav/voice_ms_street17_63_12.wav|3|…………。………………違います
+wav/voice_ms_street17_64_12.wav|3|俺は、彰人とは違う……。俺はただ……逃げてきただけです
+wav/voice_ms_street18_09_12.wav|3|……俺は……いつの間にか音楽そのものが、嫌いになっていました
+wav/voice_ms_street18_10_12.wav|3|父に反発するように、ピアノもバイオリンもやめて……
+wav/voice_ms_street18_11_12.wav|3|本当に、反発できればなんでもよかったんです
+wav/voice_ms_street18_12_12.wav|3|この場所でクラシックではない音楽をやり始めたのも、父が最も嫌がりそうだったから、なんていう幼稚な理由でした
+wav/voice_ms_street18_13_12.wav|3|でも、彰人は、こんな俺に……
+wav/voice_ms_street18_17_12.wav|3|こんな俺に……この場所と、音楽を楽しむことと、そして……大事な夢を……教えてくれた
+wav/voice_ms_street18_18_12.wav|3|彰人は、俺の初めての仲間です
+wav/voice_ms_street18_19_12.wav|3|……だけど彰人の夢は……本当に真っ直ぐで……
+wav/voice_ms_street18_20_12.wav|3|俺と一緒だと、彰人は彰人の夢を叶えられない
+wav/voice_ms_street18_21_12.wav|3|俺は彰人の隣にいるのに、彰人と同じものを見れていない
+wav/voice_ms_street18_23_12.wav|3|なのにずっと一緒にいたのは……ただ俺が、甘えていたからです
+wav/voice_ms_street18_24_12.wav|3|本当は、誰よりも俺が中途半端だったのに
+wav/voice_ms_street18_25_12.wav|3|ずっと考えていました。俺のような中途半端な人間が傍にいたら、あいつの足を引っ張る
+wav/voice_ms_street18_26_12.wav|3|本当は……白石や小豆沢のような、本気で『RAD WEEKEND』を超える夢を追いかけられる仲間が彰人には必要だ
+wav/voice_ms_street18_28_12.wav|3|……お前達は、彰人と同じだ。自分の決めた道を……心から信じて進める
+wav/voice_ms_street18_29_12.wav|3|イベントで歌っている姿を見てそれがわかった。……そして、俺には、そんな覚悟がないことも
+wav/voice_ms_street18_30_12.wav|3|だから……俺は、彰人に甘えるのはもうやめます。ようやく決心がつきました
+wav/voice_ms_street18_31_12.wav|3|……お世話になりました
+wav/voice_ms_street18_32_12.wav|3|……はい
+wav/voice_ms_street18_33_12.wav|3|え……？
+wav/voice_ms_street18_35_12.wav|3|彰人……！？
+wav/voice_ms_street18_38_12.wav|3|…………
+wav/voice_ms_street19_01_12.wav|3|……彰人、聞いていたのか
+wav/voice_ms_street19_03_12.wav|3|……そうか……
+wav/voice_ms_street19_04_12.wav|3|失望しただろう。彰人。隣にいた俺が、一番中途半端だったんだ
+wav/voice_ms_street19_06_12.wav|3|俺はずっと、お前のように真剣に夢を追えてはいなかったんだ
+wav/voice_ms_street19_08_12.wav|3|…………
+wav/voice_ms_street19_09_12.wav|3|お前の隣に立ちたいと…………少しでも思ってしまったからな
+wav/voice_ms_street19_11_12.wav|3|俺には、クラシックを通して得た技術しかない。……その上、それすらやり切れず、逃げ出してしまった
+wav/voice_ms_street19_12_12.wav|3|そんな中途半端な人間が、本気で歌う奴の隣に立ちたいと思ったら、必死になるしかないだろう？
+wav/voice_ms_street19_14_12.wav|3|……彰人と歌っているあいだ、俺はたしかに、俺でいられた気がする。本当に感謝している
+wav/voice_ms_street19_15_12.wav|3|だからこそ、俺はここにはいられない。俺は……これ以上、お前の夢に、何もしてやれない
+wav/voice_ms_street19_17_12.wav|3|…………え？
+wav/voice_ms_street19_19_12.wav|3|…………
+wav/voice_ms_street19_25_12.wav|3|…………
+wav/voice_ms_street19_29_12.wav|3|彰人、だが俺は……
+wav/voice_ms_street19_32_12.wav|3|…………！
+wav/voice_ms_street19_35_12.wav|3|…………っ！
+wav/voice_ms_street19_36_12.wav|3|やりたいに決まっているだろう……！
+wav/voice_ms_street19_40_12.wav|3|だが……！
+wav/voice_ms_street19_43_12.wav|3|…………いいのか…………それで
+wav/voice_ms_street19_45_12.wav|3|…………こんな、中途半端な俺が……お前の隣に立っていいのか？
+wav/voice_ms_street19_47_12.wav|3|…………彰人
+wav/voice_ms_street19_48_12.wav|3|やりたければやればいい、か……
+wav/voice_ms_street19_49_12.wav|3|………………そうか。それくらい、単純なことだったんだな……
+wav/voice_ms_street19_53_12.wav|3|…………あぁ
+wav/voice_ms_street19_61_12.wav|3|……小豆沢、白石
+wav/voice_ms_street19_62_12.wav|3|心配をかけてすまなかったな…………
+wav/voice_ms_street19_63_12.wav|3|俺はもう迷わない。俺は彰人と……『RAD WEEKEND』を超えてみせる
+wav/voice_ms_street19_72_12.wav|3|……ここは？
+wav/voice_ms_street20_13_12.wav|3|…………ふっ
+wav/voice_ms_street20_15_12.wav|3|いや、ずっとつっかえてたものが消えると、こんなに清々しいものなんだな
+wav/voice_ms_street20_16_12.wav|3|彰人。Vividsに負けないように、やるぞ
+wav/voice_ms_street20_37_12.wav|3|……ああ。あのセカイという場所がなんなのか、白石に聞いていた。とても興味深い話だった
+wav/voice_ms_street20_50_12.wav|3|……彰人、どうだ？
+wav/voice_ms_street20_57_12.wav|3|そうだな……せっかくみんなでやるのなら、『Crew』や『TEAM』をつけるのはいいかもしれない
+wav/voice_ms_street20_59_12.wav|3|ああ。それもいいな。あとは……
+wav/voice_ms_street20_63_12.wav|3|『Vivid BAD SQUAD』か。いい名前だ
+wav/voice_ms_street20_70_12.wav|3|だが、素直に気持ちを伝えあうのはいいことだ
+wav/voice_unit_piapro12_04_12.wav|3|それなら、今日のところは帰ろうと思うんだが……
+wav/voice_unit_piapro12_09_12.wav|3|急に押しかけて、こんなことを頼んでしまってすみません
+wav/voice_unit_piapro12_21_12.wav|3|たしかに、どちらの意見も一理ある。すぐに決めるのは難しいな
+wav/voice_unit_piapro12_37_12.wav|3|レンがDJをやってくれるなら、この前４人で歌ったあの曲が——
+wav/voice_selfep_street_01_12.wav|3|Vivid BAD SQUAD青柳冬弥
+wav/voice_selfep_street_02_12.wav|3|…………
+wav/voice_selfep_street_03_12.wav|3|あとは何を話せばいい？
+wav/voice_selfep_street_04_12.wav|3|MCはいつも彰人に任せていたし、俺は、話すのは得意じゃない……
+wav/voice_selfep_street_05_12.wav|3|……自分のこと？
+wav/voice_selfep_street_06_12.wav|3|そう、だな。わかった……
+wav/voice_selfep_street_07_12.wav|3|小さい頃は、クラシック音楽をやっていた
+wav/voice_selfep_street_08_12.wav|3|……父に教わる形でふたりの兄達もやっていて、俺も当たり前のように、ピアノやバイオリンを教わった
+wav/voice_selfep_street_09_12.wav|3|今となっては昔のことだな……。中学に入ってからは、触れることもなくなった
+wav/voice_selfep_street_10_12.wav|3|ちょうどその頃、俺は、クラシックとは違う音楽をやろうと思って……
+wav/voice_selfep_street_11_12.wav|3|よく気晴らしに行っていたゲームセンター近くの通りで歌い始めた
+wav/voice_selfep_street_12_12.wav|3|そこが、ビビッドストリートだった
+wav/voice_selfep_street_13_12.wav|3|もともと、演奏をしたり、歌を歌ったりしている人達を見かけていたから、それをマネしただけなんだが……
+wav/voice_selfep_street_14_12.wav|3|そのおかげで……彰人に会えた
+wav/voice_selfep_street_15_12.wav|3|KENさんのことや『RAD WEEKEND』のことも知った
+wav/voice_selfep_street_16_12.wav|3|それに、この街で生まれた音楽や、たくさんのミュージシャンのことも
+wav/voice_selfep_street_17_12.wav|3|それから、この街で歌うことの意味を、彰人に教えてもらった
+wav/voice_selfep_street_18_12.wav|3|今では彰人だけじゃなく、小豆沢や白石という仲間もできて、４人で同じ夢に向かって歩き出せた
+wav/voice_selfep_street_19_12.wav|3|いつか、今の自分を誇れるようになれたらいいと思う
+wav/voice_selfep_street_20_12.wav|3|…………
+wav/voice_selfep_street_21_12.wav|3|…………
+wav/voice_selfep_street_22_12.wav|3|……ん？　いや、今ので終わったつもりだったんだが……
+wav/voice_selfep_street_23_12.wav|3|ライブを楽しんでほしいとか、そういったことはお前や白石が言うだろうし……
+wav/voice_selfep_street_24_12.wav|3|……そうだな。本番では善処しよう
